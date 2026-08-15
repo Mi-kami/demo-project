@@ -1,0 +1,159 @@
+TRANSCRIPT_ID: GS_009
+ARCHETYPE: kyc_verification
+SUB_TYPE: kyc_document_issue
+MARKET: Kenya
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite → mildly frustrated
+AGENT_CONSISTENCY: stable, patient, instructional
+INTENT: kyc_incomplete
+TURNS: 18
+---
+
+AGENT: Thank you for calling KCB Customer 
+Support. My name is Grace. How may I assist you 
+today?
+
+CUSTOMER: Good afternoon. My name is Wanjiru 
+Otieno. I am calling because I have been trying 
+to complete my account verification on the app 
+for the past two days and it keeps rejecting 
+my ID. I do not understand what the problem is 
+because it is a valid ID.
+
+AGENT: Good afternoon, Wanjiru. I am sorry to 
+hear you have been having trouble with that. 
+I will look into it for you. Can you please 
+confirm your registered phone number and date 
+of birth so I can access your account?
+
+CUSTOMER: Yes. 0733 456 782. Date of birth 
+is 3rd September 1995.
+
+AGENT: Thank you, Wanjiru. I have your account 
+here. I can see that your KYC verification 
+has been flagged — the national ID you 
+submitted was rejected by our system. I 
+can see the reason noted here is that the 
+ID appears to have expired. Can you confirm 
+when your national ID was issued?
+
+CUSTOMER: It was issued in 2017. But I did 
+not know Kenyan national IDs expire. I have 
+been using it everywhere — for M-Pesa 
+registration, for everything. Nobody has 
+ever told me it was expired.
+
+AGENT: I completely understand your 
+confusion, Wanjiru. Kenyan national IDs 
+issued before 2019 do not technically 
+expire in the traditional sense, however 
+our system flags IDs that are more than 
+eight years old for manual review because 
+the photograph and details may no longer 
+accurately represent the account holder. 
+It is a compliance requirement on our end 
+rather than a government expiry rule.
+
+CUSTOMER: So the ID itself is not expired 
+but your system is rejecting it because 
+it is old. That is a bit confusing. What 
+am I supposed to do then? I cannot just 
+get a new ID overnight.
+
+AGENT: I understand, and I apologise for 
+the inconvenience. You have two options. 
+The first option is to visit a Huduma 
+Centre to apply for an updated national 
+ID — the process typically takes two to 
+three weeks. Once you have the new ID 
+you can resubmit through the app and 
+verification should go through cleanly.
+
+CUSTOMER: Two to three weeks. My account 
+is restricted right now and I need to 
+make transactions. Is there a faster 
+option?
+
+AGENT: Yes — the second option is to 
+submit an alternative government issued 
+document in place of the national ID. 
+A valid Kenyan passport or a KRA PIN 
+certificate combined with a recent 
+utility bill dated within the last 
+three months would be accepted for 
+verification purposes.
+
+CUSTOMER: I do not have a passport. 
+But I have my KRA PIN. What counts 
+as a recent utility bill — does a 
+Safaricom bill work?
+
+AGENT: Yes, a Safaricom statement 
+showing your name and current address 
+dated within the last three months 
+is acceptable. You would need to 
+submit both the KRA PIN certificate 
+and the Safaricom statement together 
+through the app under the document 
+submission section. Once both are 
+uploaded our verification team 
+will review within forty eight hours.
+
+CUSTOMER: Okay. And my account 
+will stay restricted until they 
+finish reviewing?
+
+AGENT: Unfortunately yes — your 
+account will remain on restricted 
+status until verification is 
+complete. However once the 
+documents are approved the 
+restriction will be lifted 
+automatically and you will 
+receive an SMS confirmation.
+
+CUSTOMER: So I have been waiting 
+two days already and now I have 
+to wait another forty eight hours 
+on top of that. I wish the app 
+had explained this clearly when 
+it rejected my ID instead of 
+just saying verification failed. 
+I would have called sooner.
+
+AGENT: You are absolutely right 
+and I apologise for that. The 
+error message on the app should 
+have been more specific about 
+the reason for rejection. I will 
+note that feedback on your account. 
+Your case reference number is 
+KCB-KYC-20260813-3341. Once you 
+upload the KRA PIN certificate 
+and Safaricom statement, quote 
+that reference number in the 
+app comments section so our 
+team picks it up quickly.
+
+CUSTOMER: Okay. KCB-KYC-20260813-3341. 
+I will upload them today. I just 
+hope this gets resolved quickly 
+because I have payments to make.
+
+AGENT: I understand, Wanjiru, 
+and I hope so too. Our team 
+will prioritise it. Is there 
+anything else I can help you 
+with today?
+
+CUSTOMER: No, that is all. 
+Asante.
+
+AGENT: You are welcome. 
+Good luck with the upload 
+and enjoy the rest of 
+your day.
+
+CUSTOMER: Thank you. Bye.
+
+AGENT: Goodbye.

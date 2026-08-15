@@ -1,0 +1,185 @@
+TRANSCRIPT_ID: GS_010
+ARCHETYPE: kyc_verification
+SUB_TYPE: kyc_fraud_flag
+MARKET: Gulf (UAE)
+RESOLUTION: unresolved
+SENTIMENT_ARC: neutral → confused/defensive
+AGENT_CONSISTENCY: neutral, protocol-driven, reveals nothing
+INTENT: kyc_escalation
+TURNS: 16
+---
+
+AGENT: Thank you for calling Mashreq Bank 
+Customer Support. My name is Tariq. How 
+may I assist you today?
+
+CUSTOMER: Good evening. My name is Hassan 
+Al-Mansoori. I am trying to complete my 
+account opening with Mashreq Neo. I 
+submitted all my documents three days 
+ago — my Emirates ID, passport copy, 
+and proof of address — and the app is 
+still showing my verification as pending. 
+I just want to know what is happening.
+
+AGENT: Good evening, Hassan. I can look 
+into that for you. Can you please confirm 
+your registered mobile number and your 
+Emirates ID number so I can access 
+your application?
+
+CUSTOMER: Yes. 052 341 7823. Emirates 
+ID is 784-1990-4521836-2.
+
+AGENT: Thank you, Hassan. One moment 
+while I pull up your application. 
+I can see your onboarding submission 
+here. Your application is currently 
+under an extended review. I apologise 
+for the delay.
+
+CUSTOMER: Extended review — what does 
+that mean exactly? I submitted 
+everything that was asked. My Emirates 
+ID is valid, my passport is valid, 
+my proof of address is a current 
+DEWA bill. What else is needed?
+
+AGENT: I understand your frustration, 
+Hassan, and I apologise for the 
+inconvenience. An extended review 
+simply means that your application 
+requires additional verification 
+steps beyond the standard automated 
+process. This can happen for a 
+number of reasons and does not 
+necessarily indicate a problem 
+with your documents.
+
+CUSTOMER: But I have banked with 
+Emirates NBD for six years. I 
+have never had a problem with 
+any verification anywhere. Can 
+you tell me specifically what 
+is being reviewed?
+
+AGENT: I understand this is 
+concerning, Hassan, and I 
+appreciate your patience. 
+I am not able to share the 
+specific details of what is 
+under review at this stage 
+as our compliance team handles 
+extended reviews confidentially. 
+What I can tell you is that 
+your application has not been 
+rejected — it is active and 
+being reviewed by our team.
+
+CUSTOMER: So you cannot tell 
+me what the problem is. How 
+long will this extended review 
+take? Because I opened this 
+account specifically to manage 
+my freelance payments and I 
+have clients waiting.
+
+AGENT: I completely understand 
+the urgency, Hassan. Extended 
+reviews typically take three 
+to five business days from 
+the point they are escalated 
+to the compliance team. I 
+can see your application was 
+escalated on August 11th, 
+so you should expect an 
+update by August 18th at 
+the latest. You will be 
+contacted via the email 
+address on your application.
+
+CUSTOMER: August 18th. That 
+is almost a week away. And 
+nobody contacted me to tell 
+me this was happening — I 
+had to call myself to find 
+out. That is not good service.
+
+AGENT: You are absolutely 
+right and I sincerely 
+apologise for that, Hassan. 
+You should have received 
+a notification when your 
+application moved to 
+extended review. I will 
+log that as a service 
+failure on your application 
+and flag it to the team. 
+Your application reference 
+is MQ-KYC-20260811-7732. 
+Is there anything else 
+I can assist you with?
+
+CUSTOMER: Yes actually. 
+Is there anything I can 
+do from my side to speed 
+this up? Submit more 
+documents, come into 
+a branch — anything?
+
+AGENT: That is a reasonable 
+question. At this stage 
+the review is being handled 
+internally and additional 
+documents are not required 
+unless our compliance team 
+specifically requests them. 
+If they need anything further 
+from you they will reach out 
+directly via email or phone. 
+Coming into a branch would 
+not accelerate the process 
+at this point.
+
+CUSTOMER: So there is 
+nothing I can do but wait. 
+I do not understand why 
+this is happening. I am 
+a UAE resident, I have 
+valid documents, I pay 
+my taxes. Wallah, this 
+is frustrating.
+
+AGENT: I completely 
+understand, Hassan, and 
+I am sorry I cannot 
+provide more detail at 
+this stage. What I can 
+assure you is that your 
+application is being 
+actively reviewed and 
+you will be contacted 
+before August 18th if 
+anything is needed from 
+your side. Your reference 
+number is MQ-KYC-20260811-7732. 
+Please keep that handy 
+for any follow up.
+
+CUSTOMER: Fine. I will 
+wait. But if I do not 
+hear anything by the 
+18th I am calling back.
+
+AGENT: That is completely 
+fair, Hassan. Please do 
+not hesitate to call 
+if you have not received 
+an update by then. Enjoy 
+the rest of your evening.
+
+CUSTOMER: Thank you. 
+Goodbye.
+
+AGENT: Goodbye, Hassan. 
+Take care.

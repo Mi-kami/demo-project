@@ -1,0 +1,219 @@
+TRANSCRIPT_ID: GS_012
+ARCHETYPE: loan_recovery
+SUB_TYPE: hardship_negotiation
+MARKET: Kenya
+RESOLUTION: resolved
+SENTIMENT_ARC: distressed → cautiously relieved
+AGENT_CONSISTENCY: empathetic, flexible, solution-focused
+INTENT: hardship_plan
+TURNS: 24
+---
+
+AGENT: Good afternoon. Am I speaking 
+with Aisha Otieno?
+
+CUSTOMER: Yes, this is Aisha.
+
+AGENT: Good afternoon, Aisha. My name 
+is Kevin and I am calling from M-Shwari 
+loan recovery support. I am reaching 
+out regarding your M-Shwari loan 
+account. Is this a good time to speak?
+
+CUSTOMER: Yes. I have been expecting 
+a call. I know I have missed payments. 
+I want to explain what happened.
+
+AGENT: Of course, Aisha. Please go 
+ahead. I am here to listen and to 
+see how we can find a way forward 
+together.
+
+CUSTOMER: I lost my job in June. I 
+was working as an accounts assistant 
+at a logistics company in Nairobi and 
+they did a round of retrenchments. I 
+took the M-Shwari loan in May when I 
+was still employed — KSh 35,000 — 
+because I needed to cover my daughter's 
+school fees. I have been trying to find 
+work since June but it has not been 
+easy. I have paid what I can — I sent 
+KSh 5,000 in July — but I cannot pay 
+the full outstanding amount right now. 
+I am not running away from this debt. 
+I just genuinely do not have the money.
+
+AGENT: Aisha, thank you for being 
+honest with me about your situation. 
+Losing your job is a serious hardship 
+and I can hear that you are doing your 
+best. The KSh 5,000 payment you made 
+in July has been noted on your account 
+and I want you to know that counts. 
+Can I pull up your account details 
+so we can look at the full picture 
+together?
+
+CUSTOMER: Sawa. My phone number is 
+0718 234 567.
+
+AGENT: Thank you. I have your account 
+here. Your original loan was KSh 35,000 
+disbursed on May 3rd. After the KSh 5,000 
+July payment the outstanding balance 
+including accrued interest and late 
+fees is currently KSh 33,840. I want 
+to be transparent with you about that 
+number before we discuss options.
+
+CUSTOMER: Aki — KSh 33,840. That is 
+almost what I borrowed. Mungu wangu, 
+the interest and fees have eaten my 
+payment completely. That is very 
+discouraging to hear.
+
+AGENT: I understand, and that 
+frustration is completely valid. 
+What I want to do today is find 
+a restructured plan that works 
+for your current situation — 
+not what your situation was in 
+May, but what it is right now. 
+Can I ask — what can you 
+realistically commit to paying 
+per month at the moment? Even 
+a small amount. I want to work 
+with what is actually possible 
+for you, not what looks good 
+on paper.
+
+CUSTOMER: Ukweli ni — honestly, 
+I can manage KSh 3,000 per month 
+right now. My sister has been 
+helping me with rent and I am 
+doing some casual work here and 
+there. KSh 3,000 I can commit to. 
+Maybe more once I get a permanent 
+job but I cannot promise that yet.
+
+AGENT: I appreciate your honesty, 
+Aisha. KSh 3,000 per month is 
+workable. Let me tell you what 
+I can offer. I can restructure 
+your loan over twelve months 
+at KSh 3,000 per month. That 
+covers KSh 36,000 over the 
+full period which settles the 
+outstanding balance including 
+the accrued interest. I will 
+also request that late fees 
+stop accruing from today 
+provided you maintain the 
+monthly payments consistently.
+
+CUSTOMER: So KSh 3,000 every 
+month for twelve months and 
+the late fees stop. And that 
+will clear the full debt?
+
+AGENT: Correct. As long as 
+payments are made consistently 
+each month by the agreed date 
+the late fees will be frozen 
+from today and the KSh 36,000 
+total will fully settle your 
+account. If you miss a payment 
+the late fees would resume, 
+so consistency is important. 
+I want to be clear about that 
+so there are no surprises.
+
+CUSTOMER: I understand. And 
+the KSh 3,000 — I pay through 
+M-Pesa as usual?
+
+AGENT: Yes, same M-Pesa 
+process you have been using. 
+Paybill number for M-Shwari 
+is 222111 with your phone 
+number as the account number. 
+Each payment will reflect on 
+your account within a few 
+hours and you will receive 
+an SMS confirmation. I would 
+suggest setting a reminder 
+for the same date each month 
+so it becomes routine.
+
+CUSTOMER: That is a good 
+idea. Which date should 
+I aim for each month?
+
+AGENT: You can choose a 
+date that works best for 
+you — ideally aligned 
+with when you typically 
+receive income. What 
+date would suit you?
+
+CUSTOMER: The 5th of 
+each month, na Mungu 
+akipenda. That is usually 
+when my casual work 
+payments come in.
+
+AGENT: Perfect. The 5th 
+of each month starting 
+September 5th 2026. 
+I am documenting this 
+restructured agreement 
+on your account now. 
+Your restructuring 
+reference number is 
+MSW-HRSH-20260813-4401. 
+You will receive an SMS 
+confirmation of this 
+agreement to your 
+registered number 
+shortly. Please keep 
+that message for your 
+records.
+
+CUSTOMER: MSW-HRSH-20260813-4401. 
+Okay. Kevin, nilikuwa naogopa 
+sana before I picked up this 
+call. I thought you were going 
+to threaten me or something. 
+This is not what I expected 
+at all.
+
+AGENT: I am glad we could 
+find a way forward together, 
+Aisha. These situations 
+happen and the most 
+important thing is that 
+we work through them 
+together rather than 
+avoid them. You were 
+honest with me and that 
+made everything easier. 
+Is there anything else 
+I can help you with today?
+
+CUSTOMER: No. Just 
+KSh 3,000 on the 5th. 
+Sitaangusha — I will 
+not miss it.
+
+AGENT: I believe you. 
+Good luck with the 
+job search, Aisha. 
+Enjoy the rest of 
+your day.
+
+CUSTOMER: Asante 
+sana, Kevin. Goodbye.
+
+AGENT: Goodbye, 
+Aisha. Take care.

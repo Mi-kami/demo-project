@@ -1,0 +1,139 @@
+TRANSCRIPT_ID: GS_007
+ARCHETYPE: unresolved_complaint
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Kenya
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite → hostile
+AGENT_CONSISTENCY: professional, defensive, policy-anchored
+INTENT: policy_dispute
+TURNS: 22
+---
+
+AGENT: Thank you for calling Mogo Customer Support. 
+My name is Faith. How may I assist you today?
+
+CUSTOMER: Good afternoon. My name is Brian Kamau. 
+I took a logbook loan from Mogo in March this year. 
+KES 300,000 over 24 months at 10% interest per month. 
+That was the agreement I signed. I have been repaying 
+consistently every month without defaulting. Not once. 
+But last week I checked my loan statement on the app 
+and my outstanding balance is showing KES 487,000. 
+That is more than what I borrowed. How is that 
+possible if I have been paying every month?
+
+AGENT: Good afternoon, Brian. Thank you for reaching 
+out. I am sorry to hear about your concern. Let me 
+pull up your account. Can you please confirm your 
+registered phone number and your national ID number?
+
+CUSTOMER: Sawa. 0722 814 533. ID number 28441076.
+
+AGENT: Thank you, Brian. I have your account here. 
+I can see your loan details and your repayment 
+history. I can confirm you have been making payments 
+regularly. The current outstanding balance reflects 
+the principal amount, accrued interest, and 
+additional penalty charges that have been applied 
+to your account.
+
+CUSTOMER: I need you to explain those penalty charges 
+to me. I have not missed a single payment. What 
+penalties are being charged and on what basis?
+
+AGENT: I understand your concern. Looking at your 
+account, I can see that Mogo applied a loan 
+restructuring fee in April and an insurance premium 
+adjustment in June. These charges are outlined in 
+the terms and conditions of your loan agreement 
+under the variable charges clause, which allows 
+Mogo to adjust certain fees during the loan tenure 
+in line with our operating policy.
+
+CUSTOMER: Hii ni nini? When I signed that agreement 
+in March, nobody explained a variable charges clause 
+to me. The loan officer told me my monthly repayment 
+would be KES 17,500 for 24 months and that is what 
+I have been paying. Nobody said anything about 
+restructuring fees or insurance premium adjustments 
+that would be added mid-loan without my knowledge 
+or consent. This is not what I agreed to.
+
+AGENT: I completely understand your frustration, 
+and I sincerely apologise that this was not 
+communicated clearly to you at disbursement. 
+However, the variable charges clause is part 
+of the standard loan agreement that was accepted 
+at signing. These adjustments are within Mogo's 
+operating policy and I am not in a position 
+to reverse them.
+
+CUSTOMER: So Mogo can change the terms of a loan 
+I already committed to, add charges I was never 
+told about, and your position is that it is in 
+the agreement so there is nothing to be done. 
+I signed for KES 300,000 at a fixed repayment 
+of KES 17,500 per month. That is what I agreed 
+to. Not this. Do you understand that my 
+outstanding balance is now higher than what 
+I originally borrowed even though I have been 
+paying for five months?
+
+AGENT: I hear you, Brian, and I understand why 
+this is alarming. I want to assure you that 
+the charges applied are legitimate under your 
+agreement. What I can do is escalate your 
+concern to our loans review team, who can 
+provide you with a full breakdown of every 
+charge applied to your account and the clause 
+under which it was applied.
+
+CUSTOMER: I work as an accountant. I understand 
+numbers. If I borrowed KES 300,000 and I have 
+been paying KES 17,500 every month for five 
+months, that is KES 87,500 paid. Even at 10% 
+monthly interest the math does not produce a 
+balance of KES 487,000. Something is wrong 
+and a breakdown of charges does not fix that. 
+Sitaki mchezo — I want to know what Mogo is 
+going to do to correct this.
+
+AGENT: I completely understand your concern, 
+and I want to assure you that your case will 
+be reviewed seriously. I am logging this as 
+a formal dispute — reference number 
+DSP-MG-20260812-5541 — and escalating it 
+to our loans review team. They will contact 
+you within five to seven business days with 
+a full account statement and explanation.
+
+CUSTOMER: Five to seven business days. And 
+in those five to seven days my balance 
+continues to accrue more charges. Watu 
+hawajui — the Competition Authority of 
+Kenya exists for exactly this reason. 
+If Mogo cannot explain these charges and 
+correct this account, that is where this 
+is going. I will also be reporting this 
+to the Central Bank. I know my rights.
+
+AGENT: I hear you, and I respect your 
+right to pursue that. I want to assure 
+you that Mogo operates within all 
+regulatory requirements and our team 
+will provide full transparency on your 
+account. Your dispute reference is 
+DSP-MG-20260812-5541. Is there anything 
+else I can assist you with today?
+
+CUSTOMER: No. But I want it on record 
+that I am disputing every single charge 
+added to my account after March 2026 
+without my written consent. Every single 
+one. Mwisho wa story.
+
+AGENT: That has been noted on your 
+account, Brian. Our team will be 
+in touch within —
+
+CUSTOMER: [Call ends]

@@ -1,0 +1,279 @@
+TRANSCRIPT_ID: GS_008
+ARCHETYPE: kyc_verification
+SUB_TYPE: standard_kyc_pass
+MARKET: Nigeria
+RESOLUTION: resolved
+SENTIMENT_ARC: neutral → satisfied
+AGENT_CONSISTENCY: stable, methodical, procedural
+INTENT: kyc_verification
+TURNS: 20
+---
+
+AGENT: Thank you for calling GTBank Customer 
+Support. My name is Kemi. How may I assist 
+you today?
+
+CUSTOMER: Good morning. My name is Tunde Fashola. 
+I have a GTBank account I opened a few years ago. 
+I have not used it in a while but I need to 
+reactivate it. My new employer requires that 
+salary be paid into a traditional bank account 
+and not a fintech, so I need this account 
+working before the end of the month.
+
+AGENT: Good morning, Tunde. I can help you 
+with that. GTBank accounts that have had no 
+transaction activity for six months or more 
+are automatically placed on a dormancy 
+restriction. To reactivate your account I 
+will need to re-verify your identity and 
+confirm your details are still current. 
+Can you please confirm your registered 
+phone number and date of birth?
+
+CUSTOMER: Yes. 08056 234 891. Date of birth 
+is 14th March 1990.
+
+AGENT: Thank you. I have your account here. 
+I can see it has been inactive since October 
+2025 — that is ten months. Before I can lift 
+the restriction I will need to re-verify your 
+KYC documents. Can you confirm whether the 
+BVN linked to this account is still active?
+
+CUSTOMER: Yes, same BVN. Nothing has changed 
+on that end.
+
+AGENT: Good. Can you please provide your 
+BVN for confirmation?
+
+CUSTOMER: 22345678901.
+
+AGENT: Thank you, Tunde. That matches what 
+we have on file. I also need to confirm 
+your NIN. Can you provide that?
+
+CUSTOMER: 47823 39145.
+
+AGENT: Thank you. Confirmed. Now I need 
+to verify your current residential address. 
+Can you confirm the address we have on 
+file or give me your current address if 
+it has changed?
+
+CUSTOMER: The address on file is my old 
+place in Surulere. I moved to Lekki Phase 1 
+about eight months ago. New address is 
+14B Admiralty Way, Lekki Phase 1, Lagos.
+
+AGENT: Thank you for that. I will update 
+your address on the account. For the new 
+address I will need a recent proof of 
+address — a utility bill or bank statement 
+dated within the last three months showing 
+your name and the Lekki address. Do you 
+have something like that available?
+
+CUSTOMER: I have a LAWMA bill from July. 
+Will that be okay?
+
+AGENT: Yes, that is acceptable. You can 
+walk into any GTBank branch with the 
+original bill, or you can upload a clear 
+scan or photo through the GTWorld app 
+under the document submission section. 
+I will flag your account for pending 
+address verification so the branch or 
+app team knows to expect it.
+
+CUSTOMER: I will just upload it on the 
+app. That is easier. How long will the 
+full reactivation take after I upload?
+
+AGENT: Once the document is received 
+and verified it typically takes twenty 
+four hours. In the meantime I can lift 
+the restriction partially right now — 
+you will be able to log into GTWorld 
+and receive incoming transfers. 
+Outgoing transfers will be fully 
+enabled once the proof of address 
+clears.
+
+CUSTOMER: That works. So I can give 
+my employer the account details now 
+and the salary will land even before 
+the document is fully verified?
+
+AGENT: Correct — incoming transfers 
+are enabled immediately. Can you 
+please try logging into GTWorld now 
+while we are still on the call to 
+confirm access?
+
+CUSTOMER: One moment. Yes — I am 
+in. Account is showing, balance 
+is there.
+
+AGENT: Perfect. Your BVN and NIN 
+are both verified and your address 
+update has been flagged for 
+completion once the LAWMA bill 
+is uploaded. Your reactivation 
+reference number is GT-REACT-
+20260813-4471. You will receive 
+an SMS confirmation once the 
+account is fully unrestricted. 
+Is there anything else I can 
+help you with today?
+
+CUSTOMER: No, that covers 
+everything. This was easier 
+than I expected honestly.
+
+AGENT: I am glad to hear that, 
+Tunde. Welcome back to GTBank. 
+Have a great day.
+
+CUSTOMER: Thank you. Goodbye.
+
+AGENT: TRANSCRIPT_ID: GS_008
+ARCHETYPE: kyc_verification
+SUB_TYPE: standard_kyc_pass
+MARKET: Nigeria
+RESOLUTION: resolved
+SENTIMENT_ARC: neutral → satisfied
+AGENT_CONSISTENCY: stable, methodical, procedural
+INTENT: kyc_verification
+TURNS: 20
+---
+
+AGENT: Thank you for calling GTBank Customer 
+Support. My name is Kemi. How may I assist 
+you today?
+
+CUSTOMER: Good morning. My name is Tunde Fashola. 
+I have a GTBank account I opened a few years ago. 
+I have not used it in a while but I need to 
+reactivate it. My new employer requires that 
+salary be paid into a traditional bank account 
+and not a fintech, so I need this account 
+working before the end of the month.
+
+AGENT: Good morning, Tunde. I can help you 
+with that. GTBank accounts that have had no 
+transaction activity for six months or more 
+are automatically placed on a dormancy 
+restriction. To reactivate your account I 
+will need to re-verify your identity and 
+confirm your details are still current. 
+Can you please confirm your registered 
+phone number and date of birth?
+
+CUSTOMER: Yes. 08056 234 891. Date of birth 
+is 14th March 1990.
+
+AGENT: Thank you. I have your account here. 
+I can see it has been inactive since October 
+2025 — that is ten months. Before I can lift 
+the restriction I will need to re-verify your 
+KYC documents. Can you confirm whether the 
+BVN linked to this account is still active?
+
+CUSTOMER: Yes, same BVN. Nothing has changed 
+on that end.
+
+AGENT: Good. Can you please provide your 
+BVN for confirmation?
+
+CUSTOMER: 22345678901.
+
+AGENT: Thank you, Tunde. That matches what 
+we have on file. I also need to confirm 
+your NIN. Can you provide that?
+
+CUSTOMER: 47823 39145.
+
+AGENT: Thank you. Confirmed. Now I need 
+to verify your current residential address. 
+Can you confirm the address we have on 
+file or give me your current address if 
+it has changed?
+
+CUSTOMER: The address on file is my old 
+place in Surulere. I moved to Lekki Phase 1 
+about eight months ago. New address is 
+14B Admiralty Way, Lekki Phase 1, Lagos.
+
+AGENT: Thank you for that. I will update 
+your address on the account. For the new 
+address I will need a recent proof of 
+address — a utility bill or bank statement 
+dated within the last three months showing 
+your name and the Lekki address. Do you 
+have something like that available?
+
+CUSTOMER: I have a LAWMA bill from July. 
+Will that be okay?
+
+AGENT: Yes, that is acceptable. You can 
+walk into any GTBank branch with the 
+original bill, or you can upload a clear 
+scan or photo through the GTWorld app 
+under the document submission section. 
+I will flag your account for pending 
+address verification so the branch or 
+app team knows to expect it.
+
+CUSTOMER: I will just upload it on the 
+app. That is easier. How long will the 
+full reactivation take after I upload?
+
+AGENT: Once the document is received 
+and verified it typically takes twenty 
+four hours. In the meantime I can lift 
+the restriction partially right now — 
+you will be able to log into GTWorld 
+and receive incoming transfers. 
+Outgoing transfers will be fully 
+enabled once the proof of address 
+clears.
+
+CUSTOMER: That works. So I can give 
+my employer the account details now 
+and the salary will land even before 
+the document is fully verified?
+
+AGENT: Correct — incoming transfers 
+are enabled immediately. Can you 
+please try logging into GTWorld now 
+while we are still on the call to 
+confirm access?
+
+CUSTOMER: One moment. Yes — I am 
+in. Account is showing, balance 
+is there.
+
+AGENT: Perfect. Your BVN and NIN 
+are both verified and your address 
+update has been flagged for 
+completion once the LAWMA bill 
+is uploaded. Your reactivation 
+reference number is GT-REACT-
+20260813-4471. You will receive 
+an SMS confirmation once the 
+account is fully unrestricted. 
+Is there anything else I can 
+help you with today?
+
+CUSTOMER: No, that covers 
+everything. This was easier 
+than I expected honestly.
+
+AGENT: I am glad to hear that, 
+Tunde. Welcome back to GTBank. 
+Have a great day.
+
+CUSTOMER: Thank you. Goodbye.
+
+AGENT: Goodbye and Enjoy the rest of your day.

@@ -1,0 +1,91 @@
+TRANSCRIPT_ID: GS_003
+ARCHETYPE: resolved_support
+SUB_TYPE: account_access_resolved
+MARKET: Gulf (UAE)
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated → relieved
+AGENT_CONSISTENCY: stable, methodical
+INTENT: account_access
+TURNS: 18
+---
+
+AGENT: Thank you for calling Emirates NBD Support. My name is 
+Rania. How may I assist you today?
+
+CUSTOMER: Rania, good afternoon. My name is Omar Al-Rashidi. 
+I've been trying to get through toa customer agent for a while. 
+I don't know what's wrong with your services I have been trying to 
+log into my mobile banking app since this morning and it is completely 
+locked. I have an urgent payment to make and I cannot access anything.
+
+AGENT: Good afternoon, Omar. I am sorry to hear this and I 
+understand how urgent this is. I will look into your account 
+right away. Before I can access your details, I need to verify 
+your identity. Can you please confirm your registered mobile 
+number and your Emirates ID number?
+
+CUSTOMER: Yes. My number is 050 234 5678. Emirates ID is 
+784-1985-1234567-1.
+
+AGENT: Thank you, Omar. One moment while I pull up your account. 
+I can see that your mobile banking access was frozen this morning 
+at 07:14 by our fraud detection system. It flagged an attempted 
+login from an unrecognised device in a different emirate from 
+your usual location.
+
+CUSTOMER: That was me. I am travelling to Abu Dhabi for work 
+this week. I was logging in from my colleague's phone because 
+mine had no charge. That is all it was.
+
+AGENT: Understood, Omar — that explains the flag. Logging in 
+from an unrecognised device in an unusual location triggers an 
+automatic freeze as a security measure. I will need to complete 
+a secondary verification before I can restore your access. I 
+will ask you three security questions. Please answer exactly 
+as you registered.
+
+CUSTOMER: Okay, go ahead.
+
+AGENT: First — what is the name of the primary beneficiary 
+on your account?
+
+CUSTOMER: Layla Al-Rashidi.
+
+AGENT: Correct. Second — what was the amount of your last 
+inward transfer to this account?
+
+CUSTOMER: AED 8,500.
+
+AGENT: Correct. Third — can you confirm the branch where 
+you originally opened this account?
+
+CUSTOMER: Deira branch.
+
+AGENT: Thank you, Omar. All three verified. I am restoring 
+your mobile banking access now. This will take approximately 
+sixty seconds.
+
+CUSTOMER: Inshallah. Thank you.
+
+AGENT: Your access has been restored. You should now be able 
+to log in using your usual credentials on your own device. 
+I would recommend logging in now while we are still on the 
+call to confirm everything is working correctly.
+
+CUSTOMER: One moment. Yes — I am in. Alhamdulillah. I can 
+see my account.
+
+AGENT: Perfect. For your security, the session from the 
+unrecognised device has been terminated and will not be 
+able to access your account again. Is there anything else 
+I can help you with today?
+
+CUSTOMER: No, that is all. Shukran, Rania. I was very 
+stressed this morning but it is sorted now.
+
+AGENT: You are most welcome, Omar. I am glad we could 
+resolve this for you quickly. Safe travels in Abu Dhabi.
+
+CUSTOMER: Shukran. Goodbye.
+
+AGENT: Goodbye, Omar. Take care.

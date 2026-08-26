@@ -1,0 +1,33 @@
+TRANSCRIPT_ID: GS_049
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: account_access_resolved
+MARKET: Nigeria/GTBank
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: account_access
+TURNS: 23
+---
+AGENT: Good afternoon, thank you for calling GTBank, my name is Grace, how may I help you today?
+CUSTOMER: Grace, good afternoon. My name is Segun. I've been trying to log into my account since this morning and it is completely locked. I have an urgent payment to make and I cannot access anything.
+AGENT: Good afternoon, Segun. I'm sorry to hear this and I understand how urgent this is. Before I can access your details, I need to verify your identity. Can you please confirm your registered phone number and your BVN?
+CUSTOMER: Please o. 0915178510. 23037690875.
+AGENT: Thank you, Segun. One moment while I pull up your account. I can see that your access was frozen this morning as a security precaution, triggered by a login attempt from a device we didn't recognize.
+CUSTOMER: That was me — I was using a colleague's phone because mine had no charge.
+AGENT: Understood — that explains it. This kind of thing triggers an automatic freeze as a security measure. I'll need to complete a secondary verification before I can restore your access. I'm going to ask you three security questions — please answer exactly as you registered.
+CUSTOMER: Okay, go ahead.
+AGENT: First — what is the name of the primary beneficiary on your account?
+CUSTOMER: Amaka.
+AGENT: Correct. Second — what was the amount of your last inward transfer to this account?
+CUSTOMER: ₦13,597.
+AGENT: Correct. Third — can you confirm the downtown branch?
+CUSTOMER: Yes, that's correct.
+AGENT: Thank you, Segun. All three verified. I'm restoring your access now — this will take approximately sixty seconds. Your reference number for this is GT-ACC-20260802-9949.
+CUSTOMER: Okay, thank you.
+AGENT: Your access has been restored. Can you try logging in now while we're still on the call, just to confirm everything is working?
+CUSTOMER: One moment... yes! I'm in, I can see my dashboard now. Thank you so much.
+AGENT: Perfect. For your security, the earlier session has been terminated and won't be able to access your account again. Is there anything else I can help you with today?
+CUSTOMER: No, that's all, thank you.
+AGENT: You're very welcome, Segun. I'm glad we could resolve this for you quickly.
+CUSTOMER: Thank you. Goodbye.
+AGENT: Goodbye, take care.

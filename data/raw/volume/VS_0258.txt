@@ -1,0 +1,32 @@
+TRANSCRIPT_ID: VS_0258
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: failed_transaction_resolved
+MARKET: Nigeria/OPay
+RESOLUTION: resolved
+SENTIMENT_ARC: anxious -> reassured
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: failed_transaction
+TURNS: 21
+---
+AGENT: Good afternoon, thank you for calling OPay, my name is Blessing, how may I help you today?
+CUSTOMER: Blessing, good afternoon. My name is Chiamaka. I need urgent help. I made a transfer of ₦12,571 to my landlord last night. The transaction showed as failed on my end, but I'm not sure if the money left my account or if it's just gone. I've been worried about this.
+AGENT: Good afternoon, Chiamaka. I understand this is stressful and I will look into this for you right now. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Abeg. 0915382008. Account ends in 8507.
+AGENT: Thank you, Chiamaka. I have your account open now. One moment while I check the transaction.
+CUSTOMER: This is really stressful, I needed that money today.
+AGENT: I completely understand, and I'll make sure this is resolved before we end the call.
+CUSTOMER: Okay, please.
+AGENT: I can see the ₦12,571 did leave your account, but it never reached the recipient — it's currently sitting in our clearing account because the transaction failed to settle on the receiving end.
+CUSTOMER: Okay so the money didn't just disappear? It is somewhere?
+AGENT: Correct — it is not lost. Because the transaction failed at the settlement stage, the funds are sitting in a clearing account and will be reversed back to your account. I am initiating that reversal now.
+CUSTOMER: So where is my money right now, and how do I get it back?
+AGENT: I'm reversing it back to your account right now. This is an internal reversal, so it should reflect within 24 to 48 hours. Your reference number is OP-TXN-20260617-2019, and you'll receive an SMS confirmation.
+CUSTOMER: Okay, OP-TXN-20260617-2019. So by tomorrow or the day after at the latest?
+AGENT: That is correct. Once the reversal clears, you can retry the transfer and it will go through cleanly. Is there anything else I can help you with today?
+CUSTOMER: How do I make sure this doesn't happen again next time?
+AGENT: This was a one-off settlement issue on the receiving end, not something on your account — there's nothing you need to change on your side.
+CUSTOMER: No, that's all. Thank you so much.
+AGENT: You're very welcome, Chiamaka, I'm glad we could give you clarity on this. Have a good evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye, and take care.

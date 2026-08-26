@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0194
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: failed_transaction_resolved
+MARKET: Gulf/UAE/RAKBANK
+RESOLUTION: resolved
+SENTIMENT_ARC: anxious -> reassured
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: failed_transaction
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling RAKBANK, my name is David, how may I help you today?
+CUSTOMER: David, good afternoon. My name is Huda. I need urgent help. I made a transfer of AED 717 to a supplier earlier this morning. The transaction showed as failed on my end, but I'm not sure if the money left my account or if it's just gone. I've been worried about this.
+AGENT: Good afternoon, Huda. I understand this is stressful and I will look into this for you right now. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Shukran. 056 561 9879. Account ends in 4755.
+AGENT: Thank you, Huda. I have your account open now. One moment while I check the transaction.
+CUSTOMER: Okay, please.
+AGENT: I can see the AED 717 did leave your account, but it never reached the recipient — it's currently sitting in our clearing account because the transaction failed to settle on the receiving end.
+CUSTOMER: Okay so the money didn't just disappear? It is somewhere?
+AGENT: Correct — it is not lost. Because the transaction failed at the settlement stage, the funds are sitting in a clearing account and will be reversed back to your account. I am initiating that reversal now.
+CUSTOMER: So where is my money right now, and how do I get it back?
+AGENT: I'm reversing it back to your account right now. This is an internal reversal, so it should reflect within 24 to 48 hours. Your reference number is RAK-TXN-20260605-1334, and you'll receive an SMS confirmation.
+CUSTOMER: Okay, RAK-TXN-20260605-1334. So by tomorrow or the day after at the latest?
+AGENT: That is correct. Once the reversal clears, you can retry the transfer and it will go through cleanly. Is there anything else I can help you with today?
+CUSTOMER: No, that's all. Thank you so much.
+AGENT: You're very welcome, Huda, I'm glad we could give you clarity on this. Have a good evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye, and take care.

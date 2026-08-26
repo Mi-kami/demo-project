@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0247
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: failed_transaction_resolved
+MARKET: Kenya/KCB
+RESOLUTION: resolved
+SENTIMENT_ARC: anxious -> reassured
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: failed_transaction
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling KCB, my name is Blessing, how may I help you today?
+CUSTOMER: Blessing, good afternoon. My name is Wambui. I need urgent help. I made a transfer of KSh 26,282 to my brother earlier this morning. The transaction showed as failed on my end, but I'm not sure if the money left my account or if it's just gone. I've been worried about this.
+AGENT: Good afternoon, Wambui. I understand this is stressful and I will look into this for you right now. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Tafadhali. 0714 956 361. Account ends in 6181.
+AGENT: Thank you, Wambui. I have your account open now. One moment while I check the transaction.
+CUSTOMER: Okay, please.
+AGENT: I can confirm the transaction genuinely did not go through on our side — no funds left your account at all. Your balance is untouched.
+CUSTOMER: Are you sure? Because the app showed the amount was deducted for a moment.
+AGENT: That can happen when a transaction is pending confirmation before it fails — it briefly shows as a hold, but it was released automatically since the transfer didn't complete. Your available balance reflects that already.
+CUSTOMER: Okay, let me check my balance now... yes, I can see it's correct. That's a relief.
+AGENT: I'm glad that's cleared up for you. Is there anything else I can help you with today?
+CUSTOMER: How do I make sure this doesn't happen again next time?
+AGENT: This was a one-off settlement issue on the receiving end, not something on your account — there's nothing you need to change on your side.
+CUSTOMER: No, that's all. Thank you so much.
+AGENT: You're very welcome, Wambui, I'm glad we could give you clarity on this. Have a good evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye, and take care.

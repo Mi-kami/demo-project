@@ -1,0 +1,31 @@
+TRANSCRIPT_ID: GS_160
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: loan_recovery_escalation
+MARKET: Gulf/UAE/ADIB
+RESOLUTION: unresolved
+SENTIMENT_ARC: hostile_throughout
+AGENT_CONSISTENCY: neutral_professional
+INTENT: loan_escalation
+TURNS: 21
+---
+AGENT: Good afternoon. Am I speaking with Khalid?
+CUSTOMER: Who is asking?
+AGENT: Good afternoon. My name is Blessing, and I'm calling from ADIB loan recovery support. Am I speaking with Khalid?
+CUSTOMER: Yes. What do you want?
+AGENT: I'm reaching out regarding your loan account, which is currently 3 months in arrears, with an outstanding balance of AED 7,865 including accrued fees. I'm calling to discuss how we can resolve this together. Is this a good time?
+CUSTOMER: 3 months. You people have been calling me every week for 5 weeks now. What is there to discuss that hasn't already been discussed? I told the last person who called — I am disputing this amount, and I'm not paying something I did not agree to.
+AGENT: I understand you've raised a dispute previously. I want to make sure we address that properly today — can you help me understand specifically which charges you're disputing?
+CUSTOMER: The restructuring fee, AED 1,016. Nobody told me about that fee when I took this loan. It appeared on my statement without any notification. If you want to add fees to my account, you need my consent — I did not give consent, and I'm not paying it. Simple.
+AGENT: I hear you, and I want to look into that specifically. I can see the AED 1,016 fee was applied following a payment arrangement set up earlier — this is outlined under the restructuring clause in your agreement. I can arrange for a full breakdown to be sent to your registered email if that would help clarify it.
+CUSTOMER: I've read the agreement. That clause does not give you the right to add fees without written notification beforehand. You sent me nothing before adding that charge — nothing. And now you're calling me every week demanding money. Ana gelt lak. This is harassment. I have a good mind to report this to the Central Bank.
+AGENT: I want to assure you ADIB operates fully within regulatory guidelines, and all communication has been within permitted limits. You are absolutely within your right to file a complaint with the Central Bank — that's your right as a customer, and I wouldn't discourage you from doing so. What I'd like to focus on today is whether there's a way to resolve the outstanding balance while your dispute is reviewed. The remaining balance outside the disputed fee is AED 6,849 — would you consider a payment arrangement for that portion?
+CUSTOMER: No. I'm not paying anything until the dispute is resolved. If I pay now, you'll say I accepted the charges. I know how this works. I'm not touching this account until you acknowledge the fee was applied incorrectly.
+AGENT: I understand your position. I want to be transparent about what happens next so you're fully informed. Your account has been in arrears for 3 months. If no payment arrangement is made today, I'm required to refer this account to our legal recovery team — at that point it moves outside customer support and into a formal legal process, which may include a formal demand notice and further action under civil law. I'm not saying this to pressure you, I'm telling you so you can make an informed decision.
+CUSTOMER: Legal team. Fine, let them come. I've documented every call, every charge, every notification you failed to send me. If you want to take this to court, I'll see you there.
+AGENT: I hear you, and I respect that you've documented your case. Before I escalate, I want to make one final attempt — is there any arrangement, even a partial payment against the undisputed portion, that you'd consider today to prevent this moving to legal recovery?
+CUSTOMER: No. I'm not paying a single dirham until this whole thing is sorted out properly.
+AGENT: I respect that. Since we're not able to reach an agreement today, I'll need to escalate this account to our recovery and legal team for further action.
+CUSTOMER: Do whatever you want. I'm not scared of that.
+AGENT: I've logged the dispute details on the account so the legal team has full context before proceeding. Your account reference for this interaction is ADIB-ESC-20260813-6077, and you'll receive formal written communication within five business days. Is there anything else you'd like on record?
+CUSTOMER: Ana gelt lak. Goodbye.
+AGENT: Goodbye, Khalid.

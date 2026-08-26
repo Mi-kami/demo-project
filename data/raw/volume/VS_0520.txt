@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0520
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: repeated_issue_unresolved
+MARKET: Kenya/NCBA
+RESOLUTION: unresolved
+SENTIMENT_ARC: already_frustrated -> resigned
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: service_complaint
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling NCBA, my name is Kelechi, how may I help you today?
+CUSTOMER: I will be honest with you, Kelechi — I am already tired before this call even started. My name is Wambui. A transaction that keeps failing to reflect correctly in my statement. I have called about this exact same issue 3 times before, and it is still not fixed.
+AGENT: I am very sorry to hear that, Wambui. I completely understand your frustration. Can I please have your registered phone number so I can pull up your account?
+CUSTOMER: Asante. 0721 673 584.
+AGENT: Thank you. I can see your account here. Can you also provide the reference number for your most recent affected order or transaction?
+CUSTOMER: It is NCBA-TXN-20260723-5471.
+AGENT: Thank you, Wambui. I can see previous notes referencing this issue, though I don't have visibility into the outcome of the earlier escalations from this screen.
+CUSTOMER: You people never actually fix it though, that's the problem.
+AGENT: I understand how frustrating that is. What I can do is log this again and escalate it with a note referencing your previous calls, so it's flagged as a recurring issue.
+CUSTOMER: That's exactly what the last agent told me. Word for word. Can you tell me what actually happened after my last complaint? Because nothing changed.
+AGENT: I sincerely apologize, Wambui. I am not able to access the outcome of previous escalations from my end, but I want to assure you your complaint is being taken seriously. I'll flag this as a high priority given how many times you've called.
+CUSTOMER: Mpaka lini? So every time I call, it starts from zero again? I have no way of knowing if anyone even looked at my previous complaints.
+AGENT: I completely understand, Wambui, and I sincerely apologize for the experience you've had. I have logged this and marked it urgent — our team will follow up within 24 to 48 hours.
+CUSTOMER: Twenty-four to forty-eight hours, and then what? Another apology and nothing changes? Mpaka lini? I don't even know why I keep calling at this point.
+AGENT: I hear your frustration, Wambui, and I genuinely apologize that we haven't met your expectations. Is there anything else I can assist you with today?
+CUSTOMER: No. There's nothing else. Just make sure someone actually reads this complaint this time.
+AGENT: I assure you it will be reviewed. Thank you for your patience, and for being a valued customer.

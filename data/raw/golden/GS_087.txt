@@ -1,0 +1,31 @@
+TRANSCRIPT_ID: GS_087
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Gulf/UAE/Mashreq Neo
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 21
+---
+AGENT: Good day, thank you for calling Mashreq Neo, my name is Ada, how can I assist you?
+CUSTOMER: Good day, Ada. My name is Khalid. My account was dormant for a few months and now you've charged me a AED 1,571 reactivation fee that nobody told me about when I tried to use my card again. I just wanted to use my own money.
+AGENT: Good day, Khalid. Of course, I'm happy to help. Can you please confirm your registered phone number and Emirates ID number so I can pull up your account?
+CUSTOMER: Shukran. 050 482 5189. 784-1984-3636007-3.
+AGENT: Thank you, Khalid. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — dormancy reactivation fees are standard across the industry and are outlined in our account terms.
+CUSTOMER: Wallah! I've never heard of another bank charging a fee just to let someone use their own account again.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: So your answer is that it's in the terms and that's final. You're not even willing to acknowledge that burying something like this where nobody reads it, and then charging me for it, is wrong.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: So you are telling me there is nothing you can do? Who can do something then?
+AGENT: I can log a formal dispute for you, reference number MQ-DSP-20260604-2105, and escalate it to our terms review team. I can't promise a specific outcome or timeline beyond that, though.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is MQ-DSP-20260604-2105, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Wallah! I know my rights — the Central Bank exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: Wallah! I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Khalid. Your reference number is MQ-DSP-20260604-2105 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

@@ -1,0 +1,30 @@
+TRANSCRIPT_ID: VS_0598
+SET: volume
+ARCHETYPE: KYC_VERIFICATION
+SUB_TYPE: standard_kyc_pass
+MARKET: Kenya/Absa Kenya
+RESOLUTION: resolved
+SENTIMENT_ARC: neutral -> satisfied
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: kyc_verification
+TURNS: 19
+---
+AGENT: Good afternoon, thank you for calling Absa Kenya, my name is Ifeanyi, how may I help you today?
+CUSTOMER: Tafadhali, Ifeanyi. My name is Odhiambo. I got a notification asking me to complete some verification on my account, so I'm calling to sort that out.
+AGENT: Thank you for calling in about that, Odhiambo. I can see this is a routine periodic verification we're required to run on all accounts under current regulations. Before I proceed, can you confirm your registered phone number and date of birth?
+CUSTOMER: Yes. 0714 124 777. Date of birth is 24th February 1988.
+AGENT: Thank you, that matches what we have on file. I'll also need to re-confirm your national ID number — can you provide that?
+CUSTOMER: 22263517.
+AGENT: Thank you, confirmed. Now I need to verify your current residential address — can you confirm the address we have on file, or give me your current one if it's changed?
+CUSTOMER: Why do you need all this again, didn't I already do this when I opened the account?
+AGENT: Totally fair question — regulations require us to periodically refresh this information, it's not specific to you.
+CUSTOMER: The address on file is from the old part of town. I moved to a new development nearby a few months ago — I'll need to update that.
+AGENT: No problem, I'll update that for you now. I'll need a Safaricom statement dated within the last three months showing your name and the new address. Do you have something like that available?
+CUSTOMER: I have one, let me upload it now on the app... okay, it's uploaded.
+AGENT: Perfect, I can see it. Everything else checks out. I can lift the restriction partially right now — you'll be able to log in and receive incoming transfers immediately. Outgoing transfers will be fully enabled once the address document clears review, typically within 24 hours. Your reference number is ABSA-KYC-20260711-1362.
+CUSTOMER: That works. Can you confirm I'm able to log in now, while we're still on the call?
+AGENT: Please go ahead and try.
+CUSTOMER: One moment... yes, I'm in, I can see my dashboard now. Thank you.
+AGENT: That's great to hear. Is there anything else I can help you with today?
+CUSTOMER: No, that's all, thanks.
+AGENT: You're welcome, thank you for banking with Absa Kenya, take care.

@@ -1,0 +1,32 @@
+TRANSCRIPT_ID: VS_0654
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Kenya/Branch
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 21
+---
+AGENT: Good day, thank you for calling Branch, my name is Ada, how can I assist you?
+CUSTOMER: Good day, Ada. My name is Akinyi. You charged me a KSh 6,154 'late processing fee' even though my payment went through on the exact due date — I have the transaction receipt. Nobody explained this fee when I took the loan, and I want to understand why it was applied.
+AGENT: Good day, Akinyi. Of course, I'm happy to help. Can you please confirm your registered phone number and national ID number so I can pull up your loan account?
+CUSTOMER: Tafadhali. 0711 771 916. 24841384.
+AGENT: Thank you, Akinyi. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — the fee was applied automatically once the system flagged the payment as received after the cutoff time on the due date.
+CUSTOMER: Mpaka lini? There was no cutoff time mentioned anywhere when I took this loan. If there's a specific time of day the payment needs to clear by, that should have been disclosed clearly, not buried somewhere I'd never find it.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: If this practice is so legitimate, why does it feel like Tala, Zenka don't do this? Only you people go about it this way.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: So you are telling me there is nothing you can do? Who can do something then?
+AGENT: I can log a formal dispute for you, reference number BRN-DSP-20260723-2063, and escalate it to our terms review team. I can't promise a specific outcome or timeline beyond that, though.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is BRN-DSP-20260723-2063, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Mpaka lini? I know my rights — the Central Bank of Kenya, and the Competition Authority exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: Mpaka lini? I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Akinyi. Your reference number is BRN-DSP-20260723-2063 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

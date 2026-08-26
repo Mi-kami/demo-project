@@ -1,0 +1,26 @@
+TRANSCRIPT_ID: VS_0835
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Gulf/UAE/ADIB
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 15
+---
+AGENT: Good afternoon, am I speaking with Ahmed?
+CUSTOMER: Yes, this is Ahmed. Who's calling?
+AGENT: Thank you for confirming. My name is Kelechi, I'm calling from ADIB regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of AED 13,991 is now 4 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: Yeah, sorry about that, it's been a delay from my employer's payroll on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Wednesday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be AED 14,646. Can you confirm you're able to pay that full amount by Wednesday?
+CUSTOMER: Yes, that's fine, I'll pay AED 14,646 by Wednesday.
+AGENT: Great, and will you be paying through the ADIB app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number ADIB-REM-20260804-9984. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

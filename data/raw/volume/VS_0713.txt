@@ -1,0 +1,32 @@
+TRANSCRIPT_ID: VS_0713
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Nigeria/Carbon
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 21
+---
+AGENT: Good day, thank you for calling Carbon, my name is Grace, how can I assist you?
+CUSTOMER: Good day, Grace. My name is Tunde. I took a loan of ₦261,358 and I have been repaying consistently every month for 7 months, not once missing a payment. But my outstanding balance is now showing ₦302,434 — that is more than what I originally borrowed. How is that possible if I have been paying every month?
+AGENT: Good day, Tunde. Of course, I'm happy to help. Can you please confirm your registered phone number and BVN so I can pull up your loan account?
+CUSTOMER: Please o. 0906713452. 83626462700.
+AGENT: Thank you, Tunde. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — the current balance reflects the principal, accrued interest, and a variable processing fee that was applied to your account under our variable charges clause.
+CUSTOMER: Na wa oo! Nobody explained a variable charges clause to me when I took this loan. I was told my monthly repayment would be ₦37,401 and that is what I have been paying. Nobody said anything about extra fees being added mid-loan without my knowledge.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: If this practice is so legitimate, why does it feel like Palmcredit, Branch don't do this? Only you people go about it this way.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: I have been paying ₦37,401 a month for 7 months, that is ₦261,807 paid already. Even with interest, the math does not produce a balance of ₦302,434. Something is wrong here.
+AGENT: I understand the concern, Tunde. What I can do is log a formal dispute so our review team can give you a full breakdown of every charge and the exact clause it falls under.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is CRB-DSP-20260702-4658, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Na wa oo! I know my rights — the CBN exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: Na wa oo! I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Tunde. Your reference number is CRB-DSP-20260702-4658 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

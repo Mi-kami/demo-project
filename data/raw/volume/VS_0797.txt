@@ -1,0 +1,26 @@
+TRANSCRIPT_ID: VS_0797
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Nigeria/Carbon
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 15
+---
+AGENT: Good afternoon, am I speaking with Chiamaka?
+CUSTOMER: Yes, this is Chiamaka. Who's calling?
+AGENT: Thank you for confirming. My name is Femi, I'm calling from Carbon regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of ₦21,091 is now 5 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: Yeah, sorry about that, it's been a delayed salary payment on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Friday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be ₦22,896. Can you confirm you're able to pay that full amount by Friday?
+CUSTOMER: Yes, that's fine, I'll pay ₦22,896 by Friday.
+AGENT: Great, and will you be paying through the Carbon app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number CRB-REM-20260725-8952. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

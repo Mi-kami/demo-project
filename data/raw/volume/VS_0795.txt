@@ -1,0 +1,26 @@
+TRANSCRIPT_ID: VS_0795
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Kenya/M-Shwari
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 15
+---
+AGENT: Good afternoon, am I speaking with Mutua?
+CUSTOMER: Yes, this is Mutua. Who's calling?
+AGENT: Thank you for confirming. My name is Ifeanyi, I'm calling from M-Shwari regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of KSh 37,228 is now 5 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: Yeah, sorry about that, it's been an unexpected family expense on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Wednesday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be KSh 40,037. Can you confirm you're able to pay that full amount by Wednesday?
+CUSTOMER: Yes, that's fine, I'll pay KSh 40,037 by Wednesday.
+AGENT: Great, and will you be paying through the M-Shwari app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number MSW-REM-20260722-7731. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

@@ -1,0 +1,99 @@
+TRANSCRIPT_ID: GS_004
+ARCHETYPE: unresolved_complaint
+SUB_TYPE: service_quality_complaint
+MARKET: Nigeria (Abia State)
+RESOLUTION: unresolved
+SENTIMENT_ARC: calm → frustrated
+AGENT_CONSISTENCY: professional, defensive, overly scripted
+INTENT: service_complaint
+TURNS: 17
+---
+
+AGENT: Thank you for calling InDrive Customer Service. My name 
+is Adeyemi. How may I assist you today?
+
+CUSTOMER: Good day, Adeyemi. My name is Olawale. I am reaching 
+out because I booked a ride earlier today from Mgbidi to the 
+Island and I had a very bad experience with the driver. He 
+arrived late, was pushing for an offline ride which I refused, 
+and when I refused, he became rude and insulting toward me. 
+I have heard about InDrive drivers behaving this way but today 
+I experienced it myself. This should not be happening.
+
+AGENT: I am sorry to hear about your experience, Mr. Olawale. 
+I understand how you feel and I sincerely apologise for the 
+inconvenience. To help me look into this, could you please 
+provide your trip reference number? You can find it in the 
+trip history section of your InDrive app.
+
+CUSTOMER: Yes, one moment. The reference number is 
+IND-NG-20260812-8841.
+
+AGENT: Thank you, Mr. Olawale. And can you confirm the 
+driver's name as it appeared in the app, and the date and 
+approximate time of the ride?
+
+CUSTOMER: His name showed as Emeka. The ride was today, 
+August 12th, around 11am.
+
+AGENT: Thank you for providing that. I can see the trip 
+here. I want to assure you that InDrive takes driver 
+conduct very seriously. I will escalate this complaint 
+to our driver review team and the appropriate action 
+will be taken.
+
+CUSTOMER: What does appropriate action mean exactly? 
+Will this driver be suspended? Because this is not 
+the first time I am hearing about this kind of 
+behaviour from InDrive drivers. Something needs to 
+actually be done, not just a sorry.
+
+AGENT: I completely understand your concern, Mr. Olawale, 
+and I hear you. Our team will thoroughly review the 
+complaint and take the necessary steps in line with 
+our driver conduct policy. I am not able to confirm 
+the specific outcome at this time, but I want to 
+assure you that your feedback will not be ignored.
+
+CUSTOMER: So you cannot tell me if anything will 
+actually happen to this driver. I am just supposed 
+to wait and hope? This is exactly what people mean 
+when they say InDrive does not do anything about 
+these complaints.
+
+AGENT: I sincerely apologise, Mr. Olawale. I 
+understand this is frustrating. What I can do is 
+log your complaint formally and ensure it is passed 
+to the relevant team. You may receive a follow-up 
+via the email address registered on your account 
+within five to seven business days.
+
+CUSTOMER: Five to seven business days. For a driver 
+who insulted me and tried to cheat me. Okay. And 
+in the meantime this driver is still on the road 
+doing the same thing to other passengers?
+
+AGENT: I hear your frustration, Mr. Olawale, and 
+I want to assure you that we take these matters 
+seriously. The complaint has been logged and 
+reference number CMP-20260812-4421 has been 
+assigned to your case. Our team will be in touch.
+
+CUSTOMER: Adeyemi, with all due respect, you have 
+said sorry and we will look into it three times 
+now and nothing concrete has been said. I am not 
+satisfied with this response at all.
+
+AGENT: I sincerely apologise that I have not been 
+able to provide the specific resolution you were 
+hoping for today, Mr. Olawale. This is the process 
+we have in place and I assure you your complaint 
+is being taken seriously. Is there anything else 
+I can assist you with today?
+
+CUSTOMER: No. There is nothing else. I just hope 
+something actually gets done. Goodbye.
+
+AGENT: Thank you for bringing this to our attention, 
+Mr. Olawale. We value your feedback and apologise 
+again for your experience. Have a good day.

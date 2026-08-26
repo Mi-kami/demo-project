@@ -1,0 +1,34 @@
+TRANSCRIPT_ID: VS_0715
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Gulf/UAE/RAKBANK
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 23
+---
+AGENT: Good day, thank you for calling RAKBANK, my name is Grace, how can I assist you?
+CUSTOMER: Good day, Grace. My name is Rashid. My account was dormant for a few months and now you've charged me a AED 1,524 reactivation fee that nobody told me about when I tried to use my card again. I just wanted to use my own money.
+AGENT: Good day, Rashid. Of course, I'm happy to help. Can you please confirm your registered phone number and Emirates ID number so I can pull up your account?
+CUSTOMER: Shukran. 053 119 7231. 784-2005-8429928-1.
+AGENT: Thank you, Rashid. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — dormancy reactivation fees are standard across the industry and are outlined in our account terms.
+CUSTOMER: Khalas! I've never heard of another bank charging a fee just to let someone use their own account again.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: So your answer is that it's in the terms and that's final. You're not even willing to acknowledge that burying something like this where nobody reads it, and then charging me for it, is wrong.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: So you are telling me there is nothing you can do? Who can do something then?
+AGENT: I can log a formal dispute for you, reference number RAK-DSP-20260826-9406, and escalate it to our terms review team. I can't promise a specific outcome or timeline beyond that, though.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is RAK-DSP-20260826-9406, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Khalas! I know my rights — the Central Bank exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: This cannot be legal, surely there is someone I can report this to beyond just your team?
+AGENT: You're welcome to escalate externally if you'd like — I just can't make that determination or override the charge from this line.
+CUSTOMER: Khalas! I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Rashid. Your reference number is RAK-DSP-20260826-9406 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

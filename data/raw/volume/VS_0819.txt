@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0819
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Kenya/Mogo
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 17
+---
+AGENT: Good afternoon, am I speaking with Otieno?
+CUSTOMER: Yes, this is Otieno. Who's calling?
+AGENT: Thank you for confirming. My name is Kelechi, I'm calling from Mogo regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of KSh 24,385 is now 3 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: I don't appreciate being called about this like I'm avoiding it, I was going to pay anyway.
+AGENT: I completely understand, this is just a standard courtesy call, not an accusation — I appreciate you taking the time.
+CUSTOMER: Yeah, sorry about that, it's been an unexpected family expense on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Wednesday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be KSh 25,067. Can you confirm you're able to pay that full amount by Wednesday?
+CUSTOMER: Yes, that's fine, I'll pay KSh 25,067 by Wednesday.
+AGENT: Great, and will you be paying through the Mogo app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number MG-REM-20260607-8097. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

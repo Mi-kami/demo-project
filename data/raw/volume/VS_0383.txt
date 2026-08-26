@@ -1,0 +1,36 @@
+TRANSCRIPT_ID: VS_0383
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: account_access_resolved
+MARKET: Gulf/UAE/Emirates NBD
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: account_access
+TURNS: 25
+---
+AGENT: Good afternoon, thank you for calling Emirates NBD, my name is Chinwe, how may I help you today?
+CUSTOMER: Chinwe, good afternoon. My name is Mariam. I've been trying to log into my account since this morning and it is completely locked. I have an urgent payment to make and I cannot access anything.
+AGENT: Good afternoon, Mariam. I'm sorry to hear this and I understand how urgent this is. Before I can access your details, I need to verify your identity. Can you please confirm your registered phone number and your Emirates ID number?
+CUSTOMER: Shukran. 056 162 5388. 784-1992-3206734-5.
+AGENT: Thank you, Mariam. One moment while I pull up your account. I can see that your access was frozen this morning as a security precaution, triggered by several incorrect PIN attempts in a short window.
+CUSTOMER: That's my fault, I mistyped my PIN a few times this morning, sorry about that.
+AGENT: Understood — that explains it. This kind of thing triggers an automatic freeze as a security measure. I'll need to complete a secondary verification before I can restore your access. I'm going to ask you three security questions — please answer exactly as you registered.
+CUSTOMER: Is my account actually safe though? Should I be worried?
+AGENT: There's no indication of unauthorized access — this was a precautionary freeze, not a confirmed breach. Your funds were never at risk.
+CUSTOMER: Okay, go ahead.
+AGENT: First — what is the name of the primary beneficiary on your account?
+CUSTOMER: Layla.
+AGENT: Correct. Second — what was the amount of your last inward transfer to this account?
+CUSTOMER: AED 2,049.
+AGENT: Correct. Third — can you confirm the main branch?
+CUSTOMER: Yes, that's correct.
+AGENT: Thank you, Mariam. All three verified. I'm restoring your access now — this will take approximately sixty seconds. Your reference number for this is ENBD-ACC-20260702-9859.
+CUSTOMER: Okay, thank you.
+AGENT: Your access has been restored. Can you try logging in now while we're still on the call, just to confirm everything is working?
+CUSTOMER: One moment... yes! I'm in, I can see my dashboard now. Thank you so much.
+AGENT: Perfect. For your security, the earlier session has been terminated and won't be able to access your account again. Is there anything else I can help you with today?
+CUSTOMER: No, that's all, thank you.
+AGENT: You're very welcome, Mariam. I'm glad we could resolve this for you quickly.
+CUSTOMER: Thank you. Goodbye.
+AGENT: Goodbye, take care.

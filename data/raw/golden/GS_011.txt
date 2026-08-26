@@ -1,0 +1,93 @@
+TRANSCRIPT_ID: GS_011
+ARCHETYPE: loan_recovery
+SUB_TYPE: payment_reminder_compliant
+MARKET: Nigeria
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly defensive → cooperative
+AGENT_CONSISTENCY: firm, friendly, non-aggressive
+INTENT: loan_reminder
+TURNS: 17
+---
+
+AGENT: Good afternoon. Am I speaking with 
+Emeka Nwosu?
+
+CUSTOMER: Yes, who is this?
+
+AGENT: Good afternoon, Mr. Emeka. My name 
+is Ibrahim and I am calling from OKash 
+customer support. I am reaching out 
+regarding your loan account with us. 
+Is this a good time to talk?
+
+CUSTOMER: OKash. Okay. What is the issue?
+
+AGENT: Mr. Emeka, your loan repayment of 
+₦18,500 was due on August 10th and we 
+have not received the payment as of today 
+August 13th. I am calling to remind you 
+and to help you make arrangements to 
+settle the outstanding balance. Your 
+account is currently five days past due.
+
+CUSTOMER: Yes, I know. I have been meaning 
+to pay. Things have just been tight this 
+week. I was not trying to run away from 
+it, I just have not had the chance to 
+sort it out.
+
+AGENT: I appreciate you saying that, 
+Mr. Emeka, and I completely understand 
+that things can get difficult. The 
+outstanding amount including the five 
+days of accrued daily interest is now 
+₦19,240. I want to help you close this 
+out quickly so it does not continue 
+to grow. When do you think you will 
+be able to make the payment?
+
+CUSTOMER: I should be able to sort it 
+out by Friday. My salary drops on 
+Thursday so I can pay first thing 
+Friday morning.
+
+AGENT: That works. Friday August 15th. 
+To confirm — you are committing to 
+settling the full outstanding balance 
+of ₦19,240 by Friday August 15th. 
+Is that correct?
+
+CUSTOMER: Yes. Friday. I will pay 
+through the OKash app directly.
+
+AGENT: Perfect. Payment through the 
+app is the fastest way to update 
+your account. Once you make the 
+payment your account status will 
+update automatically within a few 
+minutes and you will receive an 
+SMS confirmation. I will log this 
+commitment on your account — 
+reference number OK-REM-20260813-5521. 
+If for any reason you are unable 
+to pay by Friday please call us 
+before the due date so we can 
+make alternative arrangements.
+
+CUSTOMER: Okay. I will pay Friday. 
+No need to call again before then.
+
+AGENT: Understood, Mr. Emeka. I 
+appreciate your cooperation and 
+I will note your commitment on 
+the account. Is there anything 
+else I can help you with today?
+
+CUSTOMER: No, that is all.
+
+AGENT: Thank you for your time. 
+Enjoy the rest of your day.
+
+CUSTOMER: Okay. Bye.
+
+AGENT: Goodbye.

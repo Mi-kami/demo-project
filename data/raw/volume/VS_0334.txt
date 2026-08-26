@@ -1,0 +1,30 @@
+TRANSCRIPT_ID: VS_0334
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: service_quality_complaint
+MARKET: Gulf/UAE/Uber
+RESOLUTION: unresolved
+SENTIMENT_ARC: calm -> frustrated
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: service_complaint
+TURNS: 19
+---
+AGENT: Good afternoon, thank you for calling Uber, my name is Chinwe, how may I assist you today?
+CUSTOMER: Good day, Chinwe. My name is Layla. I'm reaching out because I booked a ride today from my home to my office and had a very bad experience with the driver. He showed up 20 minutes late, was rude when I mentioned it, and then tried to push me to cancel and rebook at a higher fare. I have heard about drivers behaving this way before, but today I experienced it myself, and this should not be happening.
+AGENT: I am sorry to hear about your experience, Layla. I understand how you feel and I sincerely apologize for the inconvenience. To look into this, could you please provide your trip reference number?
+CUSTOMER: Yes, one moment. It's UBR-TRP-20260712-3107.
+AGENT: Thank you. And can you confirm the driver's name as it appeared in the app, and the approximate time of the trip?
+CUSTOMER: The name showed as Blessing. It was earlier today, August 13, 2026.
+AGENT: Thank you for providing that. I can see the record here. I want to assure you that Uber takes service quality very seriously. I will escalate this complaint to our review team, and the appropriate action will be taken.
+CUSTOMER: What does appropriate action mean exactly? Because this is not the first time I'm hearing about this kind of thing, and I want to know something will actually be done, not just an apology.
+AGENT: I completely understand your concern. Our team will thoroughly review the complaint and take the necessary steps in line with policy. I'm not able to confirm the specific outcome at this time, but your feedback will not be ignored.
+CUSTOMER: Ana gelt lak. So you cannot tell me if anything will actually happen. I am just supposed to wait and hope?
+AGENT: I sincerely apologize, Layla. What I can do is log your complaint formally — your reference number is UBR-CMP-20260820-6512 — and ensure it's passed to the relevant team. You may receive a follow-up within five to seven business days.
+CUSTOMER: Can you at least escalate this to someone who CAN offer compensation?
+AGENT: I can flag it for a supervisor's attention, though I can't guarantee they'll be able to offer more than what I've already outlined.
+CUSTOMER: Five to seven business days. And in the meantime nothing changes for anyone else who deals with this.
+AGENT: I hear your frustration, Layla, and I want to assure you we take these matters seriously. The complaint has been logged under reference UBR-CMP-20260820-6512.
+CUSTOMER: Chinwe, with all due respect, you've said sorry and 'we will look into it' more than once now, and nothing concrete has been said. I am not satisfied with this response at all.
+AGENT: I sincerely apologize that I haven't been able to provide the specific resolution you were hoping for today. This is the process we have in place, and I assure you your complaint is being taken seriously. Is there anything else I can help with?
+CUSTOMER: No. There's nothing else. I just hope something actually gets done.
+AGENT: Thank you for bringing this to our attention, Layla. We value your feedback and apologize again for your experience. Have a good day.

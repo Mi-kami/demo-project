@@ -1,0 +1,26 @@
+TRANSCRIPT_ID: VS_0845
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Nigeria/FairMoney
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 15
+---
+AGENT: Good afternoon, am I speaking with Folake?
+CUSTOMER: Yes, this is Folake. Who's calling?
+AGENT: Thank you for confirming. My name is Michael, I'm calling from FairMoney regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of ₦35,483 is now 6 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: Yeah, sorry about that, it's been a delayed salary payment on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Friday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be ₦37,510. Can you confirm you're able to pay that full amount by Friday?
+CUSTOMER: Yes, that's fine, I'll pay ₦37,510 by Friday.
+AGENT: Great, and will you be paying through the FairMoney app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number FM-REM-20260721-8065. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

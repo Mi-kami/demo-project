@@ -1,0 +1,27 @@
+TRANSCRIPT_ID: GS_141
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: payment_reminder_compliant
+MARKET: Nigeria/Branch
+RESOLUTION: resolved
+SENTIMENT_ARC: slightly_defensive -> cooperative
+AGENT_CONSISTENCY: firm_non_aggressive
+INTENT: loan_reminder
+TURNS: 17
+---
+AGENT: Good afternoon, am I speaking with Uche?
+CUSTOMER: Yes, this is Uche. Who's calling?
+AGENT: Thank you for confirming. My name is Femi, I'm calling from Branch regarding your account.
+CUSTOMER: Okay, what's this about?
+AGENT: I'm calling because your payment of ₦29,214 is now 7 days overdue. I wanted to check in and see how we can help get this sorted.
+CUSTOMER: I don't appreciate being called about this like I'm avoiding it, I was going to pay anyway.
+AGENT: I completely understand, this is just a standard courtesy call, not an accusation — I appreciate you taking the time.
+CUSTOMER: Yeah, sorry about that, it's been a delayed salary payment on my end, it wasn't intentional.
+AGENT: I understand, these things happen. When do you think you'd be able to make the payment?
+CUSTOMER: I can pay by Wednesday — I should have the funds by then.
+AGENT: That works. With the accrued interest, the total due would be ₦30,826. Can you confirm you're able to pay that full amount by Wednesday?
+CUSTOMER: Yes, that's fine, I'll pay ₦30,826 by Wednesday.
+AGENT: Great, and will you be paying through the Branch app, or another method?
+CUSTOMER: I'll do it through the app.
+AGENT: Perfect. I've noted that on your account — reference number BRN-REM-20260816-9190. Thank you for your cooperation, and please reach out if anything changes before then.
+CUSTOMER: Okay, will do, thanks.
+AGENT: Thank you for your time, have a good day.

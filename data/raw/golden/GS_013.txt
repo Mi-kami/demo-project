@@ -1,0 +1,177 @@
+TRANSCRIPT_ID: GS_013
+ARCHETYPE: loan_recovery
+SUB_TYPE: loan_recovery_escalation
+MARKET: Gulf (UAE)
+RESOLUTION: unresolved
+SENTIMENT_ARC: hostile from open → hostile throughout
+AGENT_CONSISTENCY: professional, de-escalation attempts 
+                   fail, escalates cleanly
+INTENT: loan_escalation
+TURNS: 19
+---
+
+AGENT: Good afternoon. Am I speaking 
+with Khalid Al-Hammadi?
+
+CUSTOMER: Who is asking?
+
+AGENT: Good afternoon. My name is 
+Mohammed and I am calling from ADIB 
+loan recovery support. Am I speaking 
+with Khalid Al-Hammadi?
+
+CUSTOMER: Yes. What do you want?
+
+AGENT: Mr. Khalid, I am reaching out 
+regarding your personal finance account 
+with ADIB. Your account is currently 
+four months in arrears with an 
+outstanding balance of AED 28,750 
+including accrued fees. I am calling 
+to discuss how we can resolve this 
+together. Is this a good time?
+
+CUSTOMER: Four months. You people 
+have been calling me every week for 
+four months. What is there to discuss 
+that has not already been discussed? 
+I told the last person who called — 
+I am disputing this amount. I did 
+not agree to these charges and I 
+am not paying something I did not 
+agree to.
+
+AGENT: Mr. Khalid, I understand you 
+have raised a dispute previously. 
+I want to make sure we address that 
+properly today. Can you help me 
+understand specifically which charges 
+you are disputing so I can look into 
+this on your account?
+
+CUSTOMER: The restructuring fee 
+that was added in April. AED 3,200. 
+Nobody told me about that fee when 
+I took the finance. It appeared on 
+my statement without any notification. 
+If ADIB wants to add fees to my 
+account they need my consent. I did 
+not give consent and I am not paying 
+it. Simple.
+
+AGENT: I hear you, Mr. Khalid, and 
+I want to look into that specifically. 
+I can see on your account that a 
+restructuring fee of AED 3,200 was 
+applied in April following a payment 
+arrangement that was set up in March. 
+This fee is outlined in the terms of 
+your finance agreement under the 
+restructuring clause. I can arrange 
+for a full breakdown of the charge 
+to be sent to your registered email 
+if that would help clarify it.
+
+CUSTOMER: I have read the agreement. 
+That clause does not give ADIB the 
+right to add fees without written 
+notification to the customer 
+beforehand. You sent me nothing 
+before adding that charge. Nothing. 
+And now you are calling me every 
+week demanding money. Wallah, this 
+is harassment. I have a good mind 
+to report this to the Central Bank.
+
+AGENT: Mr. Khalid, I want to assure 
+you that ADIB operates fully within 
+CBUAE regulations and all communication 
+has been within permitted guidelines. 
+You are absolutely within your right 
+to file a complaint with the Central 
+Bank — that is your right as a 
+customer and I would not discourage 
+you from doing so. What I would like 
+to focus on today is whether there 
+is a way we can resolve the 
+outstanding balance while your 
+dispute is reviewed. The remaining 
+balance outside of the disputed 
+fee is AED 25,550 — would you be 
+willing to discuss a payment 
+arrangement for that portion?
+
+CUSTOMER: No. I am not paying 
+anything until the dispute is 
+resolved. If I pay now you will 
+say I accepted the charges. I 
+know how these things work. 
+I am not touching this account 
+until ADIB acknowledges that 
+the fee was applied incorrectly.
+
+AGENT: I understand your position, 
+Mr. Khalid. I want to be transparent 
+with you about what happens next 
+so you are fully informed. Your 
+account has been in arrears for 
+four months. If no payment arrangement 
+is made today I am required to refer 
+this account to our legal recovery 
+team. At that stage the matter moves 
+outside of customer support and into 
+a formal legal process. That may 
+include a formal demand notice and 
+further action under UAE civil law. 
+I am not saying this to pressure you 
+— I am telling you so you can make 
+an informed decision.
+
+CUSTOMER: Legal team. Fine. Let 
+them come. I have my own lawyer 
+and I have documented every call, 
+every charge, every notification 
+that ADIB failed to send me. If 
+ADIB wants to take this to court 
+I will see them there. Maybe then 
+someone will actually look at 
+what they did to my account.
+
+AGENT: Mr. Khalid, I hear you 
+and I respect that you have 
+documented your case. Before 
+I escalate I want to make one 
+final attempt — is there any 
+arrangement, even a partial 
+payment against the undisputed 
+portion, that you would consider 
+today to prevent this moving 
+to legal recovery?
+
+CUSTOMER: Ana gelt lak — I 
+already told you. Nothing. 
+Not one fils until this is 
+resolved properly. I am done 
+with this call.
+
+AGENT: Understood, Mr. Khalid. 
+I have noted your position on 
+the account. Your account 
+reference for this interaction 
+is ADIB-ESC-20260813-9981. 
+As of today your account is 
+being referred to our legal 
+recovery team and you will 
+receive formal written 
+communication within five 
+business days. If you wish 
+to discuss this further 
+before that communication 
+arrives you can contact 
+ADIB customer support 
+directly. I wish you a 
+good afternoon.
+
+CUSTOMER: La. Goodbye.
+
+AGENT: Goodbye, Mr. Khalid.

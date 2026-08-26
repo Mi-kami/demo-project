@@ -1,0 +1,96 @@
+TRANSCRIPT_ID: GS_005
+ARCHETYPE: unresolved_complaint
+SUB_TYPE: repeated_issue_unresolved
+MARKET: Gulf (UAE)
+RESOLUTION: unresolved
+SENTIMENT_ARC: already frustrated → resigned
+AGENT_CONSISTENCY: professional, defensive, overly scripted
+INTENT: service_complaint
+TURNS: 18
+---
+
+AGENT: Thank you for calling Talabat Customer Support. My name 
+is Nour. How may I assist you today?
+
+CUSTOMER: Nour, I will be honest with you. I am already tired 
+before this call even started. My name is Layla Hassan. I have 
+called Talabat customer support four times in the past six weeks 
+about the same problem and nothing has changed. Every single time 
+I place an order, something is missing. Every time. And I keep 
+calling and you people keep saying sorry and it keeps happening.
+
+AGENT: I am very sorry to hear that, Ms. Layla. I completely 
+understand your frustration and I sincerely apologise for the 
+repeated inconvenience. Can I please have your registered phone 
+number so I can pull up your account?
+
+CUSTOMER: Yes. 055 478 9021.
+
+AGENT: Thank you, Ms. Layla. I can see your account here. 
+Can you also provide the order reference number for your 
+most recent affected order?
+
+CUSTOMER: It is TLB-20260812-9934. Tonight I ordered from 
+Zaatar w Zeit. I ordered a large meal — the Full House wrap 
+combo — and the fries and the drink were both missing. Again. 
+This is the fifth time something is missing from an order.
+
+AGENT: I am truly sorry about this, Ms. Layla. I can see 
+the order here. I will log a missing items complaint for 
+order TLB-20260812-9934 and process a Talabat credit 
+refund for the missing items to your account.
+
+CUSTOMER: Nour, with respect, a credit refund is not what 
+I am asking for. I have received credit refunds four times 
+already. I am asking why this keeps happening. Is it the 
+restaurant? Is it the rider? Why has nobody investigated 
+this properly after four complaints?
+
+AGENT: I hear you, Ms. Layla, and I completely understand 
+why this is upsetting. I will escalate this to our quality 
+assurance team as a repeated complaint. They will review 
+the pattern across your orders and take the necessary steps 
+with the restaurant and delivery partner.
+
+CUSTOMER: That is exactly what the last agent told me. 
+Word for word. And the time before that. Can you tell me 
+what the quality assurance team actually did after my 
+last complaint? Because nothing changed.
+
+AGENT: I sincerely apologise, Ms. Layla. I am not able 
+to access the outcome of previous escalations from my 
+end, but I want to assure you that your complaint is 
+being taken seriously. I will flag this as a high 
+priority escalation given the number of times you 
+have contacted us.
+
+CUSTOMER: You cannot tell me what happened with my 
+previous complaints. So I have no way of knowing if 
+anyone even looked at them. This is not acceptable. 
+I have been a Talabat customer for three years. Three 
+years. And this is the service I receive.
+
+AGENT: I completely understand, Ms. Layla, and I 
+sincerely apologise for the experience you have had. 
+Your loyalty as a customer is very important to us. 
+I have logged this as complaint reference CMP-TLB-20260812-7721 
+and marked it urgent. Our team will follow up with 
+you within 24 to 48 hours via the email on your account.
+
+CUSTOMER: Twenty-four to forty-eight hours. And then 
+what? Another sorry and another credit? Wallah, I do 
+not even know why I keep calling. Nothing ever changes.
+
+AGENT: I hear your frustration, Ms. Layla, and I 
+genuinely apologise that we have not met your 
+expectations. Is there anything else I can assist 
+you with today?
+
+CUSTOMER: No. There is nothing else. Just make sure 
+someone actually reads that complaint this time.
+
+AGENT: I assure you it will be reviewed, Ms. Layla. 
+Thank you for your patience and for being a valued 
+Talabat customer. Have a good evening.
+
+CUSTOMER: Goodnight.

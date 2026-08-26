@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0230
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: failed_transaction_resolved
+MARKET: Gulf/UAE/Mashreq Neo
+RESOLUTION: resolved
+SENTIMENT_ARC: anxious -> reassured
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: failed_transaction
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling Mashreq Neo, my name is Blessing, how may I help you today?
+CUSTOMER: Blessing, good afternoon. My name is Fatima. I need urgent help. I made a transfer of AED 2,449 to a supplier about an hour ago. The transaction showed as failed on my end, but I'm not sure if the money left my account or if it's just gone. I've been worried about this.
+AGENT: Good afternoon, Fatima. I understand this is stressful and I will look into this for you right now. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Shukran. 058 225 5292. Account ends in 6053.
+AGENT: Thank you, Fatima. I have your account open now. One moment while I check the transaction.
+CUSTOMER: Okay, please.
+AGENT: I can see the AED 2,449 did leave your account, but it never reached the recipient — it's currently sitting in our clearing account because the transaction failed to settle on the receiving end.
+CUSTOMER: Okay so the money didn't just disappear? It is somewhere?
+AGENT: Correct — it is not lost. Because the transaction failed at the settlement stage, the funds are sitting in a clearing account and will be reversed back to your account. I am initiating that reversal now.
+CUSTOMER: So where is my money right now, and how do I get it back?
+AGENT: I'm reversing it back to your account right now. This is an internal reversal, so it should reflect within 24 to 48 hours. Your reference number is MQ-TXN-20260615-4438, and you'll receive an SMS confirmation.
+CUSTOMER: Okay, MQ-TXN-20260615-4438. So by tomorrow or the day after at the latest?
+AGENT: That is correct. Once the reversal clears, you can retry the transfer and it will go through cleanly. Is there anything else I can help you with today?
+CUSTOMER: No, that's all. Thank you so much.
+AGENT: You're very welcome, Fatima, I'm glad we could give you clarity on this. Have a good evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye, and take care.

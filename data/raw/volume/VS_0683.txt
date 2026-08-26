@@ -1,0 +1,32 @@
+TRANSCRIPT_ID: VS_0683
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Nigeria/Moniepoint
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 21
+---
+AGENT: Good day, thank you for calling Moniepoint, my name is Chinwe, how can I assist you?
+CUSTOMER: Good day, Chinwe. My name is Ngozi. You charged me a ₦6,009 monthly account maintenance fee even though I've kept the minimum balance every single month since I opened this account. This was never explained to me when I opened it, and I want to understand why I'm being charged.
+AGENT: Good day, Ngozi. Of course, I'm happy to help. Can you please confirm your registered phone number and BVN so I can pull up your account?
+CUSTOMER: Abeg. 0909785657. 73451876573.
+AGENT: Thank you, Ngozi. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — this is part of our standard account terms and conditions, under the fees and charges section.
+CUSTOMER: Na wa oo! Nobody read that to me, nobody explained it in a way I could understand. This is not fair.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: So your answer is that it's in the terms and that's final. You're not even willing to acknowledge that burying something like this where nobody reads it, and then charging me for it, is wrong.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: So you are telling me there is nothing you can do? Who can do something then?
+AGENT: I can log a formal dispute for you, reference number MP-DSP-20260619-8532, and escalate it to our terms review team. I can't promise a specific outcome or timeline beyond that, though.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is MP-DSP-20260619-8532, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Na wa oo! I know my rights — the CBN exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: Na wa oo! I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Ngozi. Your reference number is MP-DSP-20260619-8532 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

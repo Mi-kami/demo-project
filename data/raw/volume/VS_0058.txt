@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0058
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: billing_error_resolved
+MARKET: Nigeria/Moniepoint
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: billing_error
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling Moniepoint, my name is Chinwe, how may I help you today?
+CUSTOMER: Abeg, Chinwe, good afternoon. My name is Tunde. I have been charged twice for the same transaction — ₦17,128 taken out on June 3, 2026, and nobody has done anything about it.
+AGENT: Good afternoon, Tunde. I'm sorry to hear that. I'll look into this for you right away. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Yes. 0917981662. Account ends in 6076.
+AGENT: Thank you, Tunde. I can see your account now. Can you tell me approximately when this charge occurred and what the transaction was for?
+CUSTOMER: It was on June 3, 2026. I need this resolved today, please.
+AGENT: I completely understand your frustration, Tunde, and I sincerely apologize for the delay. Let me pull up your transaction history for June 3, 2026 now.
+CUSTOMER: Please. Because this is not small money.
+AGENT: I can see it here — a network retry on our end double-submitted the transaction. That is clearly a duplicate charge, and I am initiating a reversal for the second transaction now.
+CUSTOMER: Okay. So the ₦17,128 will come back?
+AGENT: Yes, exactly. The reversal for ₦17,128 has been initiated. Your reference number is MP-BILL-20260822-5283. The funds will reflect in your account within 24 to 48 hours, and you will also receive an SMS confirmation shortly.
+CUSTOMER: Okay, MP-BILL-20260822-5283. Good. So I should see it by tomorrow at the latest?
+AGENT: That is correct, by tomorrow at the latest. Is there anything else I can help you with today?
+CUSTOMER: No, that is all. Thank you, Chinwe. At least someone has finally sorted it out.
+AGENT: You are welcome, Tunde. I am glad we could resolve this for you. Have a lovely evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye.

@@ -1,0 +1,33 @@
+TRANSCRIPT_ID: GS_041
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: account_access_resolved
+MARKET: Kenya/Absa Kenya
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: account_access
+TURNS: 23
+---
+AGENT: Good afternoon, thank you for calling Absa Kenya, my name is Grace, how may I help you today?
+CUSTOMER: Grace, good afternoon. My name is Njeri. I've been trying to log into my account since this morning and it is completely locked. I have an urgent payment to make and I cannot access anything.
+AGENT: Good afternoon, Njeri. I'm sorry to hear this and I understand how urgent this is. Before I can access your details, I need to verify your identity. Can you please confirm your registered phone number and your national ID number?
+CUSTOMER: Sawa. 0736 756 926. 18732680.
+AGENT: Thank you, Njeri. One moment while I pull up your account. I can see that your access was frozen this morning as a security precaution, triggered by a login from a location that didn't match your usual pattern.
+CUSTOMER: That was me, I'm travelling for work this week, that's probably why.
+AGENT: Understood — that explains it. This kind of thing triggers an automatic freeze as a security measure. I'll need to complete a secondary verification before I can restore your access. I'm going to ask you three security questions — please answer exactly as you registered.
+CUSTOMER: Okay, go ahead.
+AGENT: First — what is the name of the primary beneficiary on your account?
+CUSTOMER: Njeri.
+AGENT: Correct. Second — what was the amount of your last inward transfer to this account?
+CUSTOMER: KSh 10,338.
+AGENT: Correct. Third — can you confirm the main branch?
+CUSTOMER: Yes, that's correct.
+AGENT: Thank you, Njeri. All three verified. I'm restoring your access now — this will take approximately sixty seconds. Your reference number for this is ABSA-ACC-20260609-4512.
+CUSTOMER: Okay, thank you.
+AGENT: Your access has been restored. Can you try logging in now while we're still on the call, just to confirm everything is working?
+CUSTOMER: One moment... yes! I'm in, I can see my dashboard now. Thank you so much.
+AGENT: Perfect. For your security, the earlier session has been terminated and won't be able to access your account again. Is there anything else I can help you with today?
+CUSTOMER: No, that's all, thank you.
+AGENT: You're very welcome, Njeri. I'm glad we could resolve this for you quickly.
+CUSTOMER: Thank you. Goodbye.
+AGENT: Goodbye, take care.

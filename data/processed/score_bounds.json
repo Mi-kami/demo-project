@@ -1,0 +1,14 @@
+{
+  "customer_sentiment_delta": {
+    "min": -1.019,
+    "max": 0.3801
+  },
+  "agent_mean_sentiment": {
+    "min": 0.1694,
+    "max": 0.6751
+  },
+  "turns": {
+    "min": 15.0,
+    "max": 27.0
+  }
+}

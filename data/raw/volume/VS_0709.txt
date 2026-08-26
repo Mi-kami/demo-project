@@ -1,0 +1,34 @@
+TRANSCRIPT_ID: VS_0709
+SET: volume
+ARCHETYPE: UNRESOLVED_COMPLAINT
+SUB_TYPE: policy_dispute_unresolved
+MARKET: Gulf/UAE/Dubai Islamic Bank
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> hostile
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: policy_dispute
+TURNS: 23
+---
+AGENT: Good day, thank you for calling Dubai Islamic Bank, my name is Grace, how can I assist you?
+CUSTOMER: Good day, Grace. My name is Hassan. My loan of AED 23,624 was refinanced without my signature, and now the new terms have a higher rate that I never agreed to. I only found out when I checked my statement this week.
+AGENT: Good day, Hassan. Of course, I'm happy to help. Can you please confirm your registered phone number and Emirates ID number so I can pull up your loan account?
+CUSTOMER: Shukran. 052 142 6206. 784-1986-8819325-8.
+AGENT: Thank you, Hassan. I have your account here. Let me look into this for you.
+CUSTOMER: Please do, because this doesn't make sense to me.
+AGENT: Thank you for waiting. I can see the charge — the refinancing was applied under a clause that allows automatic restructuring after a missed payment date, which is standard across our loan agreements.
+CUSTOMER: Khalas! I never missed a payment, and even if a clause like that exists, changing my interest rate without telling me first is not something I would ever have agreed to.
+AGENT: I completely understand your frustration, and I appreciate you raising this. Unfortunately I'm not able to override or reverse this — it's within our standard operating policy.
+CUSTOMER: If this practice is so legitimate, why does it feel like Emirates NBD, ADCB don't do this? Only you people go about it this way.
+AGENT: I hear you, and those are valid concerns. I want to assure you this is fully disclosed in the agreement you accepted, and it's within our standard operating policy.
+CUSTOMER: So you are telling me there is nothing you can do? Who can do something then?
+AGENT: I can log a formal dispute for you, reference number DIB-DSP-20260702-3214, and escalate it to our terms review team. I can't promise a specific outcome or timeline beyond that, though.
+CUSTOMER: This is exactly the problem, always 'we will escalate', nothing ever changes.
+AGENT: I understand the frustration, and I've logged everything accurately on my end. Your dispute reference is DIB-DSP-20260702-3214, and the review team will follow up within five to seven business days.
+CUSTOMER: Five to seven business days, and in the meantime this keeps sitting on my account. Khalas! I know my rights — the Central Bank exists for exactly this kind of thing, and I will be reporting this.
+AGENT: I hear you, and I respect your right to pursue that. I want to assure you we operate within all regulatory requirements, and our team will provide full transparency on your account.
+CUSTOMER: This cannot be legal, surely there is someone I can report this to beyond just your team?
+AGENT: You're welcome to escalate externally if you'd like — I just can't make that determination or override the charge from this line.
+CUSTOMER: Khalas! I don't have time for this. I want it on record that I am disputing this fully.
+AGENT: That has been noted on your account, Hassan. Your reference number is DIB-DSP-20260702-3214 — is there anything else I can help with today?
+CUSTOMER: No. There is nothing else you can do for me. Goodbye.
+AGENT: Thank you for —

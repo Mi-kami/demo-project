@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0786
+SET: volume
+ARCHETYPE: KYC_VERIFICATION
+SUB_TYPE: kyc_document_issue
+MARKET: Gulf/UAE/RAKBANK
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> mildly_frustrated
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: kyc_incomplete
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling RAKBANK, my name is Kelechi, how may I help you today?
+CUSTOMER: Shukran, Kelechi. My name is Rashid. I uploaded my documents for verification but my account is still showing as restricted, so I wanted to check what's going on. This is a valid document, I don't understand what the problem is.
+AGENT: I'm sorry to hear you've had trouble with that, Rashid. Let me look into it. Can you please confirm your registered phone number and date of birth?
+CUSTOMER: Yes. 053 202 2679. Date of birth is 12th March 1980.
+AGENT: Thank you, Rashid. I have your account here. I can see that your document was flagged — the name on the document you uploaded doesn't quite match the name on your account — even a small spelling difference can trigger this.
+CUSTOMER: Nobody told me that when I uploaded it, the app just said 'processing'. That's a bit confusing — what am I supposed to do now?
+AGENT: I completely understand the confusion, and I apologize that wasn't communicated more clearly on the app. What I'd recommend is submitting a document that matches your account name exactly, or a supporting document explaining the name difference.
+CUSTOMER: Okay, and how long will that take once I submit it?
+AGENT: Once it's submitted, review typically takes up to 48 hours. I can't complete the verification on this call, unfortunately.
+CUSTOMER: This app error message really should have told me this from the start.
+AGENT: That's fair feedback, and I'll pass it along to our product team.
+CUSTOMER: So I still can't use my account after all this? I've already been waiting for two days.
+AGENT: Not until the new document clears review, no — I'm sorry for the inconvenience. Your case reference number is RAK-KYC-20260721-2918. Please quote that when you upload the new document so our team picks it up quickly.
+CUSTOMER: Okay, RAK-KYC-20260721-2918. I'll upload it today. I just hope this actually gets resolved because I have things I need to do on my account.
+AGENT: I understand, Rashid, and I hope so too. I'll leave detailed notes on your account so the review team has full context. Is there anything else I can help with today?
+CUSTOMER: No, that's all.
+AGENT: Thank you for banking with RAKBANK, take care.

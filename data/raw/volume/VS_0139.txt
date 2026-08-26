@@ -1,0 +1,28 @@
+TRANSCRIPT_ID: VS_0139
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: billing_error_resolved
+MARKET: Nigeria/Kuda
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: billing_error
+TURNS: 17
+---
+AGENT: Good afternoon, thank you for calling Kuda, my name is Ifeanyi, how may I help you today?
+CUSTOMER: Abeg, Ifeanyi, good afternoon. My name is Amaka. I have been charged twice for the same transaction — ₦8,885 taken out on August 21, 2026, and nobody has done anything about it.
+AGENT: Good afternoon, Amaka. I'm sorry to hear that. I'll look into this for you right away. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Yes. 0701697237. Account ends in 7920.
+AGENT: Thank you, Amaka. I can see your account now. Can you tell me approximately when this charge occurred and what the transaction was for?
+CUSTOMER: It was on August 21, 2026. I need this resolved today, please.
+AGENT: I completely understand your frustration, Amaka, and I sincerely apologize for the delay. Let me pull up your transaction history for August 21, 2026 now.
+CUSTOMER: Please. Because this is not small money.
+AGENT: I can see it here — a network retry on our end double-submitted the transaction. That is clearly a duplicate charge, and I am initiating a reversal for the second transaction now.
+CUSTOMER: Okay. So the ₦8,885 will come back?
+AGENT: Yes, exactly. The reversal for ₦8,885 has been initiated. Your reference number is KD-BILL-20260718-1111. The funds will reflect in your account within 24 to 48 hours, and you will also receive an SMS confirmation shortly.
+CUSTOMER: Okay, KD-BILL-20260718-1111. Good. So I should see it by tomorrow at the latest?
+AGENT: That is correct, by tomorrow at the latest. Is there anything else I can help you with today?
+CUSTOMER: No, that is all. Thank you, Ifeanyi. At least someone has finally sorted it out.
+AGENT: You are welcome, Amaka. I am glad we could resolve this for you. Have a lovely evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye.

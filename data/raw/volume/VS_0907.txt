@@ -1,0 +1,38 @@
+TRANSCRIPT_ID: VS_0907
+SET: volume
+ARCHETYPE: LOAN_RECOVERY
+SUB_TYPE: hardship_negotiation
+MARKET: Kenya/Branch
+RESOLUTION: resolved
+SENTIMENT_ARC: distressed -> cautiously_relieved
+AGENT_CONSISTENCY: empathetic_firm
+INTENT: hardship_plan
+TURNS: 27
+---
+AGENT: Good afternoon. Am I speaking with Mutua?
+CUSTOMER: Yes, this is.
+AGENT: Good afternoon. My name is Femi, and I'm calling from Branch loan recovery support regarding your loan account. Is this a good time to speak?
+CUSTOMER: Yes. I have been expecting a call. I know I have missed payments, and I want to explain what happened.
+AGENT: Of course, please go ahead. I'm here to listen and to see how we can find a way forward together.
+CUSTOMER: my hours were cut significantly at work starting July, and my income dropped by more than half. I took this loan when I was still doing fine financially, and I've been trying to get back on my feet since. I paid what I could — KSh 4,795 in June — but I cannot pay the full outstanding amount right now. I'm not running away from this, I just genuinely do not have the money.
+AGENT: Mutua, thank you for being honest with me about your situation. That's a serious hardship, and I can hear you're doing your best. The KSh 4,795 payment has been noted on your account, and I want you to know that counts. Can I pull up your account so we can look at the full picture together?
+CUSTOMER: Sure. My phone number is 0727 858 337.
+AGENT: Thank you. I have your account here. Your original loan was KSh 33,004. After your June payment, the outstanding balance including accrued interest and late fees is currently KSh 28,209. I want to be transparent with you about that number before we discuss options.
+CUSTOMER: KSh 28,209. That is almost what I borrowed. The interest and fees have eaten my payment completely — that's discouraging to hear.
+AGENT: I understand, and that frustration is completely valid. What I want to do today is find a restructured plan that works for your situation right now — not what it was before. Can I ask, what can you realistically commit to paying per month at the moment? Even a small amount — I want to work with what's actually possible for you.
+CUSTOMER: Honestly, I can manage KSh 4,920 per month right now. Maybe more once things improve, but I can't promise that yet.
+AGENT: I appreciate your honesty. KSh 4,920 a month is workable. Here's what I can offer — I'll restructure your loan over 6 months at KSh 4,920 per month. That covers KSh 29,520 over the full period, which settles the outstanding balance including the accrued interest. I'll also request that late fees stop accruing from today, provided you maintain the monthly payments consistently.
+CUSTOMER: So KSh 4,920 every month for 6 months and the late fees stop — and that clears the full debt?
+AGENT: Correct. As long as payments are made consistently each month by the agreed date, the late fees will be frozen from today and the plan will fully settle your account. If you miss a payment, the late fees would resume, so consistency matters — I want to be clear about that so there are no surprises.
+CUSTOMER: I understand. And I pay through M-Pesa Paybill as usual?
+AGENT: Yes, same process you've been using. Each payment will reflect on your account within a few hours, and you'll get a confirmation. I'd suggest setting a reminder for the same date each month so it becomes routine. Which date works best for you?
+CUSTOMER: Are you sure the late fees will actually stop? I've been burned by promises like that before.
+AGENT: Completely understandable to ask — I'm noting it on your account right now, not just saying it. You'll see it reflected immediately.
+CUSTOMER: The 1th of each month — that's usually when my income comes in.
+AGENT: Perfect, the 1th of each month starting next month. I'm documenting this agreement on your account now — you'll receive a confirmation message to your registered number shortly. Please keep that for your records.
+CUSTOMER: Okay. Femi, I was really dreading this call before I picked up. I thought you were going to threaten me or something. This isn't what I expected at all.
+AGENT: I'm glad we could find a way forward together. These situations happen, and the most important thing is working through them rather than avoiding them. You were honest with me, and that made everything easier. Is there anything else I can help with today?
+CUSTOMER: No. Just KSh 4,920 on the 1th — I will not miss it.
+AGENT: I believe you. Good luck, and take care.
+CUSTOMER: Thank you. Goodbye.
+AGENT: Goodbye, take care.

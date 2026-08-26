@@ -1,0 +1,30 @@
+TRANSCRIPT_ID: VS_0086
+SET: volume
+ARCHETYPE: RESOLVED_SUPPORT
+SUB_TYPE: billing_error_resolved
+MARKET: Kenya/Equity Bank
+RESOLUTION: resolved
+SENTIMENT_ARC: frustrated -> relieved
+AGENT_CONSISTENCY: neutral_positive_throughout
+INTENT: billing_error
+TURNS: 19
+---
+AGENT: Good afternoon, thank you for calling Equity Bank, my name is Zainab, how may I help you today?
+CUSTOMER: Pole, Zainab, good afternoon. My name is Njeri. I was charged KSh 6,512 twice for what should have been one payment on June 3, 2026, and I've been trying to sort this out for two days now.
+AGENT: Good afternoon, Njeri. I'm sorry to hear that. I'll look into this for you right away. Can you please confirm your registered phone number and the last four digits of your account number so I can pull up your account?
+CUSTOMER: Yes. 0733 389 413. Account ends in 4319.
+AGENT: Thank you, Njeri. I can see your account now. Can you tell me approximately when this charge occurred and what the transaction was for?
+CUSTOMER: It was on June 3, 2026. I need this resolved today, please.
+AGENT: I completely understand your frustration, Njeri, and I sincerely apologize for the delay. Let me pull up your transaction history for June 3, 2026 now.
+CUSTOMER: Please. Because this is not small money.
+AGENT: I can see it here — our merchant gateway logged two separate authorizations for a single tap. That is clearly a duplicate charge, and I am initiating a reversal for the second transaction now.
+CUSTOMER: Okay. So the KSh 6,512 will come back?
+AGENT: Yes, exactly. The reversal for KSh 6,512 has been initiated. Your reference number is EQ-BILL-20260816-9952. The funds will reflect in your account within 24 to 48 hours, and you will also receive an SMS confirmation shortly.
+CUSTOMER: Okay, EQ-BILL-20260816-9952. Good. So I should see it by tomorrow at the latest?
+AGENT: That is correct, by tomorrow at the latest. Is there anything else I can help you with today?
+CUSTOMER: And this won't happen again, right?
+AGENT: I've flagged this on our end so our systems team can look into the retry issue — it shouldn't recur, but do reach out immediately if it does.
+CUSTOMER: No, that is all. Thank you, Zainab. At least someone has finally sorted it out.
+AGENT: You are welcome, Njeri. I am glad we could resolve this for you. Have a lovely evening.
+CUSTOMER: You too. Bye.
+AGENT: Goodbye.

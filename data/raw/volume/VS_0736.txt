@@ -1,0 +1,26 @@
+TRANSCRIPT_ID: VS_0736
+SET: volume
+ARCHETYPE: KYC_VERIFICATION
+SUB_TYPE: kyc_document_issue
+MARKET: Nigeria/Moniepoint
+RESOLUTION: unresolved
+SENTIMENT_ARC: polite -> mildly_frustrated
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: kyc_incomplete
+TURNS: 15
+---
+AGENT: Good afternoon, thank you for calling Moniepoint, my name is Ifeanyi, how may I help you today?
+CUSTOMER: Abeg, Ifeanyi. My name is Bolanle. I uploaded my documents for verification but my account is still showing as restricted, so I wanted to check what's going on. This is a valid document, I don't understand what the problem is.
+AGENT: I'm sorry to hear you've had trouble with that, Bolanle. Let me look into it. Can you please confirm your registered phone number and date of birth?
+CUSTOMER: Yes. 0811312619. Date of birth is 20th July 1987.
+AGENT: Thank you, Bolanle. I have your account here. I can see that your document was flagged — the ID on file is from 6 years ago, and our system flags anything issued more than 5 years back for a compliance review — this isn't a government expiry issue, it's an internal rule.
+CUSTOMER: Nobody told me that when I uploaded it, the app just said 'processing'. That's a bit confusing — what am I supposed to do now?
+AGENT: I completely understand the confusion, and I apologize that wasn't communicated more clearly on the app. What I'd recommend is submitting a more recent proof of identity, like a utility statement paired with your tax or national ID number.
+CUSTOMER: Okay, and how long will that take once I submit it?
+AGENT: Once it's submitted, review typically takes up to 48 hours. I can't complete the verification on this call, unfortunately.
+CUSTOMER: So I still can't use my account after all this? I've already been waiting for two days.
+AGENT: Not until the new document clears review, no — I'm sorry for the inconvenience. Your case reference number is MP-KYC-20260627-5409. Please quote that when you upload the new document so our team picks it up quickly.
+CUSTOMER: Okay, MP-KYC-20260627-5409. I'll upload it today. I just hope this actually gets resolved because I have things I need to do on my account.
+AGENT: I understand, Bolanle, and I hope so too. I'll leave detailed notes on your account so the review team has full context. Is there anything else I can help with today?
+CUSTOMER: No, that's all.
+AGENT: Thank you for banking with Moniepoint, take care.

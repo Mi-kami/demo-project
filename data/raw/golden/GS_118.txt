@@ -1,0 +1,29 @@
+TRANSCRIPT_ID: GS_118
+ARCHETYPE: KYC_VERIFICATION
+SUB_TYPE: kyc_fraud_flag
+MARKET: Gulf/UAE/Emirates NBD
+RESOLUTION: unresolved
+SENTIMENT_ARC: neutral -> confused_defensive
+AGENT_CONSISTENCY: neutral_throughout
+INTENT: kyc_escalation
+TURNS: 19
+---
+AGENT: Good afternoon, thank you for calling Emirates NBD, my name is Michael, how may I help you today?
+CUSTOMER: Shukran, Michael. My name is Hassan. My account has been flagged for some kind of review and I don't understand why — I haven't done anything unusual, and I submitted everything that was asked of me.
+AGENT: I understand the confusion, Hassan. Let me look into that for you. Can you please confirm your registered phone number and Emirates ID number?
+CUSTOMER: 053 147 3181. 784-1997-2976225-5.
+AGENT: Thank you, Hassan. One moment while I pull up your application. I can confirm there's an extended review in progress on a recent large transaction on your account. I apologize for the delay.
+CUSTOMER: Extended review — what does that mean exactly? What else could possibly be needed?
+AGENT: I understand your frustration. An extended review means your application requires additional verification steps beyond the standard automated process. This can happen for a number of reasons and doesn't necessarily indicate a problem with your documents.
+CUSTOMER: So you're telling me you don't even know why, or you just can't tell me?
+AGENT: I genuinely don't have visibility into the specific trigger from this screen — I can only confirm that a review is in progress and share the expected timeline. That's determined by an automated system on the compliance side.
+CUSTOMER: This doesn't make sense. Is someone accusing me of something?
+AGENT: This isn't an accusation — extended reviews are a standard part of our verification process and don't necessarily mean anything was found. I know that's not a very satisfying answer, and I'm sorry for that.
+CUSTOMER: Okay... so what happens now?
+AGENT: The review typically takes 3 business days. I've escalated it internally with a note that you called in today — reference number ENBD-KYC-20260714-3363 — and you'll be notified directly once it's complete.
+CUSTOMER: Nobody contacted me to tell me this was happening in the first place, I had to call myself to find out. That's not good service.
+AGENT: You're right, and I sincerely apologize for that. You should have received a notification when your application moved to extended review. I'll log that as a service gap and flag it to the team.
+CUSTOMER: Alright. I still don't really understand, but okay.
+AGENT: I understand, and I appreciate your patience. Is there anything else I can help with today?
+CUSTOMER: No, that's all.
+AGENT: Thank you for banking with Emirates NBD, take care.
